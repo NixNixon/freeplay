@@ -617,13 +617,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="che-pl7",Че! +7
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="Музыкальные", Шансон-ТВ
+#EXTINF:-1 group-title="Музыкальные" tvg-id="shanson-tv", Шансон-ТВ
 https://sc.id-tv.kz:443/Shanson_34_35.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="shanson-tv", Шансон-ТВ 2
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее
 http://91.207.180.142/shokiruushee/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Ю ТВ
+#EXTINF:-1 group-title="Развлекательные", Ю
 http://91.207.180.142/Yu_TV/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="yu-pl2",Ю +2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
@@ -661,7 +661,7 @@ http://91.207.180.142/Bridge_TV/index.m3u8
 http://91.207.180.142/Rusong_TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Deluxe
 http://91.207.180.142/Bridge_HD/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Blidge TV Fresh
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-fresh", Bridge TV Fresh
 http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Hits
 http://91.207.180.142/Dange_TV/index.m3u8
@@ -689,7 +689,7 @@ http://91.207.180.142/CineMan_VHS/index.m3u8
 http://91.207.180.142/CineMan_Catastrophe/index.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Лесник
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1807/stream.m3u8
-#EXTINF:-1 group-title="Кино", Cineman Мелодрама
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-melodrama", Cineman Мелодрама
 http://91.207.180.142/CineMan_Melodrama/index.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Ментовские Войны
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1807/stream.m3u8
