@@ -547,6 +547,8 @@ http://91.207.180.142/rybolov/index.m3u8
 http://91.207.180.142/ryjyi/index.m3u8
 #EXTINF:-1 group-title="Кино", Сапфир
 http://91.207.180.142/Fox_Live_Russia/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Сарафан
+http://91.207.180.142/Sarafan/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Сила
 https://stream.ads.ottera.tv/cl/6c4e0ef2-01a9-44b6-b44b-8b4113772154/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
@@ -813,7 +815,7 @@ http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", RTG HD
 http://91.207.180.142/RTG_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", RU.TV
-http://91.207.180.142/MCM_Top/index.m3u8
+http://91.207.180.142/RU_TV/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Russian Extreme
 http://91.207.180.142/Russkiy_Ekstrim/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Russian MusicBox
