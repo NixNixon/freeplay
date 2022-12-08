@@ -882,3 +882,5 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="СтильЖизни", World Fashion Channel
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1534/stream.m3u8
+#EXTINF:-1 group-title="Кино", ZEE TV Россия
+http://91.207.180.142/ZEE_TV_Rossiya/index.m3u8
