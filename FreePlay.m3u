@@ -63,7 +63,7 @@ http://91.207.180.142/Match_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Арена HD
 http://91.207.180.142/Match_Arena_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Боец
-http://193.233.9.49/streams/media/Match_Boec/index.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1887/stream.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра HD
 http://91.207.180.142/Match_Igra_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Планета
@@ -673,32 +673,20 @@ http://91.207.180.142/CineMan_Cartoons_Big/index.m3u8
 http://91.207.180.142/CineMan_Cartoons-short/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema
 http://91.207.180.142/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино", Cineman
-http://91.207.180.142/CineMan/index.m3u8
-#EXTINF:-1 group-title="Кино", Cineman Action
-http://91.207.180.142/CineMan_Action/index.m3u8
-#EXTINF:-1 group-title="Кино", Cineman Marvel
-http://91.207.180.142/CineMan_Marvel/index.m3u8
-#EXTINF:-1 group-title="Кино", Cineman Thriller
-http://91.207.180.142/CineMan_Thriller/index.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Top
-http://91.207.180.142/CineMan_Top/index.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1753/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman VHS
-http://91.207.180.142/CineMan_VHS/index.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1761/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Катастрофы
-http://91.207.180.142/CineMan_Catastrophe/index.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1754/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Лесник
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1807/stream.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-melodrama", Cineman Мелодрама
-http://91.207.180.142/CineMan_Melodrama/index.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Ментовские Войны
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1807/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Пёс
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1806/stream.m3u8
-#EXTINF:-1 group-title="Кино", Cineman Ужасы
-http://91.207.180.142/CineMan_Ujas/index.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Сваты
-http://91.207.180.142/CineMan_Svat/index.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1763/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Симпсоны
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1765/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Скорая Помощь
@@ -754,8 +742,12 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1466/str
 http://91.207.180.142/flixsnip/index.m3u8
 #EXTINF:-1 group-title="Хобби", FoodTime
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1796/stream.m3u8
+#EXTINF:-1 group-title="Кино", Fox
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/148/stream.m3u8
 #EXTINF:-1 group-title="Кино", Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="Кино", Fox Life
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/535/stream.m3u8
 #EXTINF:-1 group-title="Спортивные", Fuel TV
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1523/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Galaxy TV
