@@ -324,7 +324,7 @@ http://91.207.180.142/vmirejivotnyhhd/index.m3u8
 #EXTINF:-1 group-title="СоциальноПолитические", Вместе-РФ
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/889/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
-http://77.75.13.32:81/udp/239.195.4.95:1234
+http://62.76.22.176:81/udp/239.195.4.95:1234
 #EXTINF:-1 group-title="Развлекательные", Время
 http://91.207.180.142/Vremya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD
@@ -675,10 +675,10 @@ http://91.207.180.142/CineMan_Cartoons_Big/index.m3u8
 http://91.207.180.142/CineMan_Cartoons-short/index.m3u8
 #EXTINF:-1 group-title="Кино", Cinema
 http://91.207.180.142/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино", Cineman Top
-http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1753/stream.m3u8
-#EXTINF:-1 group-title="Кино", Cineman VHS
-http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1761/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1752/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman Комедия
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1760/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Катастрофы
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1754/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Лесник
@@ -693,6 +693,16 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1763/str
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1765/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Скорая Помощь
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1764/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman Ужасы
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1759/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman Action
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1755/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman Marvel
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1758/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman Top
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1753/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman VHS
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1761/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные", Clubbing TV HD
 http://91.207.180.142/Clubbing_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Детские", Da Vinci
