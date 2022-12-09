@@ -685,6 +685,8 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1754/str
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1807/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Ментовские Войны
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1807/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-melodrama", Cineman Мелодрама
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1757/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Пёс
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1806/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Сваты
@@ -699,6 +701,8 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1759/str
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1755/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Marvel
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1758/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cineman Thriller
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1756/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman Top
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1753/stream.m3u8
 #EXTINF:-1 group-title="Кино", Cineman VHS
