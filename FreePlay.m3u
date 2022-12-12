@@ -358,7 +358,7 @@ http://91.207.180.142/ege/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жара
 http://91.207.180.142/ZhARA/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="zhara", Жара TV Kids
-http://91.207.180.142/ZhARA/index.m3u8
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://91.207.180.142/Zhivaya_Planeta/index.m3u8                                     
 #EXTINF:-1 group-title="СтильЖизни", Живи
@@ -826,9 +826,9 @@ https://sc.id-tv.kz:443/NickJr_36_37.m3u8
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2019/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Ocean-TV 
 http://91.207.180.142/Ocean_TV/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Paramount Channel
+#EXTINF:-1 group-title="Кино", Paramount Channel
 https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
-#EXTINF:-1 group-title="Спортивные", Paramount Comedy
+#EXTINF:-1 group-title="Кино", Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
 #EXTINF:-1 group-title="Кино", Plan B
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2024/stream.m3u8
