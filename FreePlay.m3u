@@ -417,6 +417,8 @@ http://91.207.180.142/Kino_TV/index.m3u8
 http://91.207.180.142/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит
 http://91.207.180.142/Kinokhit/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Ключ
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2026/stream.m3u8
 #EXTINF:-1 group-title="Кино", Комедийное
 http://91.207.180.142/komediynoe/index.m3u8
 #EXTINF:-1 group-title="Кино", Комедия
@@ -467,7 +469,7 @@ http://91.207.180.142/multilandiya/index.m3u8
 http://91.207.180.142/Multimuzyka/index.m3u8
 #EXTINF:-1 group-title="Религия", Надежда
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/491/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Наука 2.0
+#EXTINF:-1 group-title="Познавательные", Наука 2.0
 http://91.207.180.142/Nauka_2_0/index.m3u8
 #EXTINF:-1 group-title="Кино", Наш Кинопоказ HD
 http://91.207.180.142/nashkinopokazhd/index.m3u8
@@ -489,6 +491,8 @@ http://91.207.180.142/NSTV/index.m3u8
 http://91.207.180.142/O/index.m3u8
 #EXTINF:-1 group-title="Кино", О!Кино
 http://193.33.240.8:8080/nashe/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", О2ТВ
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/859/stream.m3u8
 #EXTINF:-1 group-title="Хобби", Оружие
 http://91.207.180.142/orujie/index.m3u8
 #EXTINF:-1 group-title="Кино", Остросюжетное
@@ -659,14 +663,18 @@ http://91.207.180.142/Bollywood_HD/index.m3u8
 http://91.207.180.142/bolt/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV
 http://91.207.180.142/Bridge_TV/index.m3u8
-#EXTINF:-1 group-title="Музыкальные", BRIDGE TV Русский Хит
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Русский Хит
 http://91.207.180.142/Rusong_TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Classic
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/206/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Deluxe
 http://91.207.180.142/Bridge_HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-fresh", Bridge TV Fresh
 http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Hits
 http://91.207.180.142/Dange_TV/index.m3u8
+#EXTINF:-1 group-title="Детские", Cartoon Network
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/197/stream.m3u8
 #EXTINF:-1 group-title="Детские" , Cartoons 90
 http://91.207.180.142/CineMan_Cartoons-90/index.m3u8
 #EXTINF:-1 group-title="Детские" , Cartoons Big
@@ -784,6 +792,8 @@ http://91.207.180.142/hollywoodhd/index.m3u8
 http://91.207.180.142/insight/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Insight UHD
 http://91.207.180.142/Insightuhd4k/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Investigation Discovery
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/701/stream.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://95.217.196.109:8081/russia/jimjam/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", KHL
@@ -800,6 +810,8 @@ http://91.207.180.142/Mezzo/index.m3u8
 http://91.207.180.142/Mezzo_Live_HD/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="m1global", MMA TV
 http://91.207.180.142/m-1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Museum HD
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1889/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano HD
 http://91.207.180.142/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
@@ -818,6 +830,8 @@ http://91.207.180.142/Ocean_TV/index.m3u8
 https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 group-title="Спортивные", Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
+#EXTINF:-1 group-title="Кино", Plan B
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2024/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные", Quadro 4K
 http://91.207.180.142/Quadro4K/index.m3u8
 #EXTINF:-1 group-title="Кино", .red
