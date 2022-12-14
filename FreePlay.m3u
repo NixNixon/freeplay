@@ -557,6 +557,14 @@ http://91.207.180.142/Sarafan/index.m3u8
 https://stream.ads.ottera.tv/cl/6c4e0ef2-01a9-44b6-b44b-8b4113772154/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские", Солнце
+http://91.207.180.142/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="Детские", Солнце +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Детские", Солнце +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Новостные", Сочи 24
 http://91.207.180.142/MAKS24_Sochi/index.m3u8
 #EXTINF:-1 group-title="Религия", Союз
@@ -719,14 +727,6 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1761/str
 http://91.207.180.142/Clubbing_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Детские", Da Vinci
 http://91.207.180.142/Da_Vinchi/index.m3u8
-#EXTINF:-1 group-title="Детские", Disney
-http://91.207.180.142/Disney_Channel/index.m3u8
-#EXTINF:-1 group-title="Детские", Disney +4
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские", Disney +7
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные", Discovery HD
 http://91.207.180.142/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Discovery Science
