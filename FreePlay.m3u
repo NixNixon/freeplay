@@ -569,7 +569,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
 http://91.207.180.142/MAKS24_Sochi/index.m3u8
 #EXTINF:-1 group-title="Религия", Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="Детские", Союзмультфильм
+#EXTINF:-1 group-title="Детские" tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/175411/pub_5ccfc77c583aa800af53af9b_5ccfe10cc359d300b3c9d226/scale_1200", Союзмультфильм
 https://hls.youtb.workers.dev/channel/UCHS2LM1n3f5cyL-ebgkqyLw.m3u8
 #EXTINF:-1 group-title="Спортивные", Спортивный
 http://91.207.180.142/sportivnyi/index.m3u8
