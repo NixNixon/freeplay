@@ -487,7 +487,7 @@ http://91.207.180.142/Nashe_Novoe_Kino/index.m3u8
 http://91.207.180.142/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Кино", НСТ
 http://91.207.180.142/NSTV/index.m3u8
-#EXTINF:-1 group-title="Детские", О!
+#EXTINF:-1 group-title="Детские" tvg-id="o_", О!
 http://91.207.180.142/O/index.m3u8
 #EXTINF:-1 group-title="Кино", О!Кино
 http://193.33.240.8:8080/nashe/index.m3u8
