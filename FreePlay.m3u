@@ -447,6 +447,8 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_hos
 http://91.207.180.142/mir_basketbola/index.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://91.207.180.142/Mir_Seriala/index.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-id="moskovsky-obrazovatelny", Мособр ТВ
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
 http://91.207.180.142/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Хобби", Моторспорт ТВ
