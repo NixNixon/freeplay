@@ -667,6 +667,8 @@ http://91.207.180.142/Ani/index.m3u8
 http://91.207.180.142/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", .black
 http://91.207.180.142/Sony_Turbo/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Big Planet
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино", Bollywood HD
 http://91.207.180.142/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", BOLT
