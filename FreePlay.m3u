@@ -772,8 +772,6 @@ http://91.207.180.142/fightbox/index.m3u8
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1466/stream.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
 http://91.207.180.142/flixsnip/index.m3u8
-#EXTINF:-1 group-title="Хобби", FoodTime
-http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1796/stream.m3u8
 #EXTINF:-1 group-title="Кино", Fox
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/148/stream.m3u8
 #EXTINF:-1 group-title="Кино", Fox HD
