@@ -353,6 +353,8 @@ http://193.233.9.49/streams/media/Draiv/index.m3u8
 https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Еврокино
 http://91.207.180.142/Yevrokino/index.m3u8
+#EXTINF:-1 group-title="Хобби", Еда Премиум
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные", ЕГЭ
 http://91.207.180.142/ege/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Жара
