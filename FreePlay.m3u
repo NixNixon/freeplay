@@ -565,6 +565,8 @@ http://91.207.180.142/Sarafan/index.m3u8
 https://stream.ads.ottera.tv/cl/6c4e0ef2-01a9-44b6-b44b-8b4113772154/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Новостные", Соловьëв.Live
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/334/stream.m3u8
 #EXTINF:-1 group-title="Детские", Солнце
 http://91.207.180.142/Disney_Channel/index.m3u8
 #EXTINF:-1 group-title="Детские", Солнце +4
