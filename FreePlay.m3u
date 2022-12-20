@@ -392,7 +392,7 @@ http://91.207.180.142/kamedyhd/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD
 http://91.207.180.142/capitanfantastikahd/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
-http://91.207.180.142/KVN_TV/index.m3u8
+http://95.217.196.109:8081/russia/kvn/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Кинеко
 http://91.207.180.142/Fox/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко HD
