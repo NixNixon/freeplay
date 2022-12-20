@@ -324,7 +324,7 @@ http://91.207.180.142/vmirejivotnyhhd/index.m3u8
 #EXTINF:-1 group-title="СоциальноПолитические", Вместе-РФ
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/889/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
-http://62.76.22.176:81/udp/239.195.4.95:1234
+http://62.76.22.123:81/udp/239.195.4.95:1234
 #EXTINF:-1 group-title="Развлекательные", Время
 http://91.207.180.142/Vremya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD
