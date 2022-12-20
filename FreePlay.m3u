@@ -367,6 +367,8 @@ http://91.207.180.142/Zhivaya_Planeta/index.m3u8
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8                                     
 #EXTINF:-1 group-title="СтильЖизни", Живи
 http://91.207.180.142/Zhivi/index.m3u8
+#EXTINF:-1 group-title="СтильЖизни", Живи Активно
+https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
 #EXTINF:-1 group-title="Хобби", Загородная жизнь
 http://mfe02.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Хобби", Загородный
