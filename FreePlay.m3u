@@ -297,6 +297,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="2na2-pl7",2x2 +7
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", 360° Подмосковье
 http://91.207.180.142/360_Podmoskove_HD/index.m3u8
 #EXTINF:-1 group-title="Новостные", 360° Новости
