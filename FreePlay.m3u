@@ -689,6 +689,8 @@ http://91.207.180.142/bolt/index.m3u8
 http://91.207.180.142/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Русский Хит
 http://91.207.180.142/Rusong_TV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Шлягер
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Classic
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/206/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Deluxe
@@ -828,6 +830,8 @@ http://91.207.180.142/Mezzo_Live_HD/index.m3u8
 http://91.207.180.142/m-1/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Museum HD
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1889/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Music Box Gold
+http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano HD
 http://91.207.180.142/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic HD
@@ -902,6 +906,8 @@ http://91.207.180.142/TV_1000/index.m3u8
 http://91.207.180.142/TV_1000_Action/index.m3u8
 #EXTINF:-1 group-title="Кино", TV1000 Русское Кино
 http://91.207.180.142/TB_1000_Russkoe_Kino/index.m3u8
+#EXTINF:-1 group-title="Познавательные", TV BRICS
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Кино", TV XXI
 http://91.207.180.142/TV_XXI/index.m3u8
 #EXTINF:-1 group-title="Кино", Ultra HD Cinema
