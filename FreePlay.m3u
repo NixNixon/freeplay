@@ -810,7 +810,7 @@ http://91.207.180.142/hollywoodhd/index.m3u8
 http://91.207.180.142/insight/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Insight UHD
 http://91.207.180.142/Insightuhd4k/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Investigation Discovery
+#EXTINF:-1 group-title="Развлекательные" tvg-id="id-xtra-eu", Investigation Discovery
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/701/stream.m3u8
 #EXTINF:-1 group-title="Детские", JimJam
 http://95.217.196.109:8081/russia/jimjam/playlist.m3u8
