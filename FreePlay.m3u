@@ -884,7 +884,7 @@ http://91.207.180.142/Star_Family_HD/index.m3u8
 https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
 #EXTINF:-1 group-title="Кино", Start World
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
-#EXTINF:-1 group-title="Музыкальные", Stingray Classic Rock
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1932421662.png", Stingray Classic Rock
 https://stirr.ott-channels.stingray.com/101/master_1920x1080_1500kbps.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 http://91.207.180.142/TiJi/index.m3u8
