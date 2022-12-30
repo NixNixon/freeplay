@@ -886,6 +886,8 @@ https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1932421662.png", Stingray Classic Rock
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1345/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-1932421662.png", Stingray Exitos del Momento
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1344/stream.m3u8
 #EXTINF:-1 group-title="Детские", TiJi
 http://91.207.180.142/TiJi/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
