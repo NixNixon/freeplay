@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Федеральные", Футбол HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8
 #EXTINF:-1 group-title="Федеральные", Первый Канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
