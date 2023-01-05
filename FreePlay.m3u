@@ -477,6 +477,8 @@ http://91.207.180.142/Muzhskoe_Kino/index.m3u8
 http://91.207.180.142/muzjskoy/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Музыка Первого
 http://91.207.180.142/Muzyka_Pervogo/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Мульт
 http://91.207.180.142/Mult/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультиландия
