@@ -571,6 +571,8 @@ http://91.207.180.142/ryjyi/index.m3u8
 http://91.207.180.142/Fox_Live_Russia/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
 http://91.207.180.142/Sarafan/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Светлое ТВ
+http://194.158.218.123:8880/SvetloeTV/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Сила
 https://stream.ads.ottera.tv/cl/6c4e0ef2-01a9-44b6-b44b-8b4113772154/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
