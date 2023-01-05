@@ -323,6 +323,8 @@ http://91.207.180.142/blockbasterhd/index.m3u8
 http://91.207.180.142/Bober/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Бокс ТВ
 http://91.207.180.142/Boks_TV/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://91.207.180.142/V_Gostyakh_U_Skazki/index.m3u8
 #EXTINF:-1 group-title="Познавательные", В мире животных HD
