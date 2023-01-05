@@ -659,7 +659,7 @@ https://sc.id-tv.kz:443/Shanson_34_35.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее
 http://91.207.180.142/shokiruushee/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Эхо ТВ
+#EXTINF:-1 group-title="Развлекательные", Эхо TV
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю
 http://91.207.180.142/Yu_TV/index.m3u8
