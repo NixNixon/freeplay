@@ -439,7 +439,7 @@ http://91.207.180.142/komediynoe/index.m3u8
 http://91.207.180.142/Komediya/index.m3u8
 #EXTINF:-1 group-title="Хобби", Конный мир HD
 http://91.207.180.142/Konnyy_Mir_HD/index.m3u8
-#EXTINF:-1 group-title="Кино", Кошмар HD
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-koshmar-hd_1.jpg", Кошмар HD
 https://vkvsd77.mycdn.me/hls/3132754430657.m3u8/sig/ALcG1mefpSk/expires/1673069645629/srcIp/213.87.159.222/urls/45.136.22.69/clientType/13/srcAg/CHROME_ANDROID/mid/4295878650817/video.m3u8?p
 #EXTINF:-1 group-title="СоциальноПолитические", Красная линия
 http://91.207.180.142/Krasnaya_Liniya/index.m3u8
