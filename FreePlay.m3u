@@ -635,7 +635,7 @@ http://91.207.180.142/Tochka_TV/index.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 group-title="Спортивные", Удар
 http://2serv.mylifeisgood.ml:8080/channels/udarlive.m3u8
-#EXTINF:-1 group-title="Кино", Ужастик
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-kino-uzhastik.jpg?itok=kSyZQMMy", Ужастик
 https://edge-01.kino.watch/horror/index.m3u8
 #EXTINF:-1 group-title="Детские", Уникум
 http://91.207.180.142/Detskiy/index.m3u8
