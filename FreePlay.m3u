@@ -27,7 +27,7 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные", Первый Канал HD
-http://91.207.180.142/Pervyy_HD/index.m3u8
+http://91.207.180.142/Pervyy_HD/index.m3u8  
 #EXTINF:-1 catchup="append" catch-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные" tvg-id="rossia1 -pl1",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
