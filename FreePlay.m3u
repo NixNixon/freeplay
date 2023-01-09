@@ -351,6 +351,10 @@ https://v2.catcast.tv//content/38720/index.m3u8
 http://91.207.180.142/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий
 http://91.207.180.142/Dikiy/index.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая Охота
+http://81.177.165.206:8036/playlist.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая Рыбалка
+http://217.107.219.67:8008/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор
 http://91.207.180.142/Doktor/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
