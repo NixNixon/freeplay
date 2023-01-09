@@ -919,6 +919,8 @@ https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 http://91.207.180.142/hollywood/index.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD
 http://91.207.180.142/hollywoodhd/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Home 4k
+http://89.104.114.18:8080/home4k/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Insight TV HD
 http://91.207.180.142/insight/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Insight UHD
