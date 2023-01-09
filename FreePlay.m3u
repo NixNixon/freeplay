@@ -653,7 +653,7 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Музыкальные", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Страшное HD
-http://srv-6-streaming.iptvin.site:8080/strashnoe/video.m3u8?token=eec34324958aa5126eb2aeacaca2b2f2c24286a0-4238431368-1673203464-1673160264
+http://138.201.67.145:8081/Strashnoe_HD/index.m3u803464-1673160264
 #EXTINF:-1 group-title="Развлекательные", Суббота
 http://91.207.180.142/super/index.m3u8
 #EXTINF:-1 group-title="Детские", Супергерои
