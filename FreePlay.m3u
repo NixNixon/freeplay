@@ -1000,7 +1000,7 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1338/str
 #EXTINF:-1 group-title="Детские", TiJi
 http://91.207.180.142/TiJi/index.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi Channel
-http://srv-6-streaming.iptvin.site:8080/dizi/video.m3u8?token=51b93fa54b8a16ab587eb97c877a3c9f912d5b62-4238431368-1673203357-1673160157
+http://45.94.219.9:8081/stream/test74/hls/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", TLC
 http://91.207.180.142/TLC_Russia_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
