@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Федеральные", Первый Канал
-http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/719/stream.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные" tvg-id="pervy-pl1",Первый канал (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
@@ -650,6 +651,8 @@ https://hls.youtb.workers.dev/channel/UCHS2LM1n3f5cyL-ebgkqyLw.m3u8
 http://91.207.180.142/sportivnyi/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Старт
 https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="Спортивные", Старт Триумф
+http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
 #EXTINF:-1 group-title="Музыкальные", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Страшное HD
