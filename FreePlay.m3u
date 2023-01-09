@@ -476,7 +476,7 @@ http://91.207.180.142/Kukhnya_TV/index.m3u8
 #EXTINF:-1 group-title="СоциальноПолитические", ЛДПР ТВ
 http://91.207.180.142/LDPR_Live/index.m3u8
 #EXTINF:-1 group-title="Детские", Лëва
-#EXTVLCOPT:http-user-agent=DuneHD/1.0.3 316-1673161116
+#EXTVLCOPT:http-user-agent=PeersTVHlsPlayer
 http://hls.peers.tv/streaming/lyova/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"316-1673161116
 #EXTINF:-1 group-title="Кино", Любимое кино
 http://91.207.180.142/Lyubimoe_Kino/index.m3u8
