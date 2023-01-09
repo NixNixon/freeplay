@@ -634,9 +634,9 @@ http://194.158.218.123:8880/SvetloeTV/index.m3u8
 https://stream.ads.ottera.tv/cl/6c4e0ef2-01a9-44b6-b44b-8b4113772154/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Новостные", Смотрим 24 HD
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC.svg/2560px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC.svg.png", Смотрим 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc11_hd/playlist_6.m3u8
-#EXTINF:-1 group-title="Кино", Смотрим ТВ HD
+#EXTINF:-1 group-title="Кино" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC.svg/2560px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC.svg.png", Смотрим ТВ HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Детские", Советские Мультфильмы
 http://srv-6-streaming.iptvin.site:8080/suvmult/video.m3u8?token=3b4d149c3f05be2bbecbc291ea58343cac818e24-4238431368-1673203571-1673160371
