@@ -660,6 +660,8 @@ http://91.207.180.142/super/index.m3u8
 http://91.207.180.142/Malysh/index.m3u8
 #EXTINF:-1 group-title="Кино", Тайна
 http://91.207.180.142/Tayna/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Театр
+http://31.134.132.249/strk_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Техно 24
 http://91.207.180.142/Tekhno_24/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Танцуй!
