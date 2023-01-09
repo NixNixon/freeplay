@@ -338,7 +338,7 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/889/stre
 #EXTINF:-1 group-title="Кино", Военное Кино
 http://srv-6-streaming.iptvin.site:8080/voenkino/video.m3u8?token=62e89d79d7afab8ac430fc3e3f6c23093dc3c15b-4238431368-1673202312-1673159112
 #EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
-http://78.25.155.47:1309/channel/Vopr_i_otv.ts1673205291-1673162091
+http://78.25.155.47:1309/channel/Vopr_i_otv.ts
 #EXTINF:-1 group-title="Развлекательные", Время
 http://91.207.180.142/Vremya/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Глазами туриста HD
