@@ -432,7 +432,7 @@ http://91.207.180.142/kinopokazhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://91.207.180.142/Kinoprimera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносат
-http://srv-2-streaming.iptvin.site:8080/kinosat/index.m3u8?token=ab8831e8905d884d1b7542068f7b0c4f442d3c3b-4238431368-1673202921-1673159721
+http://89.104.114.18:8080/kinosat/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://91.207.180.142/Kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья
@@ -763,7 +763,7 @@ http://91.207.180.142/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино", BOLT
 http://91.207.180.142/bolt/index.m3u8
 #EXTINF:-1 group-title="Детские", Boomerang
-http://srv-4-streaming.iptvin.site:8080/boomerang/video.m3u8?token=3218c57b50b84ad790c94978132f840c2e459b40-4238431368-1673204241-1673161041
+https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV
 http://91.207.180.142/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Bridge TV Русский Хит
@@ -872,7 +872,7 @@ http://srv-6-streaming.iptvin.site:8080/FilmZone/video.m3u8?token=f3088b26dc6837
 #EXTINF:-1 group-title="Кино", FlixSnip
 http://91.207.180.142/flixsnip/index.m3u8
 #EXTINF:-1 group-title="Хобби", FoodTime
-http://srv-5-streaming.iptvin.site:34768/eda_premium_hd/index.m3u8?token=b8a5d530bdb1e57c4f8a963d25b8cbc9ef3a4683-4238431368-1673204865-1673161665
+http://89.104.114.18:8080/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Fox
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/148/stream.m3u8
 #EXTINF:-1 group-title="Кино", Fox HD
