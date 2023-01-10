@@ -1,2 +1,4 @@
 #EXTM3U tvg-url="https://iptvx.one/EPG"
 #EXTINF:-1, Первый канал
+#EXTVLCOPT:http-user-agent=
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
