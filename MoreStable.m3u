@@ -39,3 +39,67 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Федеральные", Первый канал +9
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R03_1TV_PKAM_OTT/variant.m3u8
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -1
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-3600
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -2
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-7200
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -3
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-10800
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -4
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-14400
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -5
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-18000
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -6
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-21600
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -7
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-25200
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -8
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-28800
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -9
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-32400
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -10
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-36000
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -11
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-39600
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -12
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-43200
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -13
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-46800
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -14
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-50400
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -15
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-54000
+
+#EXTINF:-1 group-title="Федеральные", Первый канал -16
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?offset=-57600
