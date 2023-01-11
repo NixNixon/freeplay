@@ -38,7 +38,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 
 #EXTINF:-1 group-title="Федеральные", Первый канал +9
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://s14131.cdn.ngenix.net/hls/CH_R03_1TV_PKAM_OTT/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?offset=+3600
 
 #EXTINF:-1 group-title="Федеральные", Первый канал -1
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
