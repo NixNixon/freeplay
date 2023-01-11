@@ -18,19 +18,19 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/va
 
 #EXTINF:-1 group-title="Федеральные", Первый канал +4
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?offset=-14400
 
 #EXTINF:-1 group-title="Федеральные", Первый канал +5
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?offset=-10800
 
 #EXTINF:-1 group-title="Федеральные", Первый канал +6
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?offset=-7200
 
 #EXTINF:-1 group-title="Федеральные", Первый канал +7
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?offset=-3600
 
 #EXTINF:-1 group-title="Федеральные", Первый канал +8
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
