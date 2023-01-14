@@ -4,7 +4,6 @@
 <title></title>
 </head>
 <body>
-    <a name="header"></a>
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -20,39 +19,15 @@
  
         ga('create', 'UA-53446268-1', 'auto');
         ga('send', 'pageview');
-    </script>
- 
-    <div class="container">
-                <div class="search-language hidden-xs">
-                    <!--
-                <div class="pull-right">
-                    <div class="select-languages">
-                        <span class="language  active "><img src="/images/flags/ru.png">
-                                            <strong>Ru</strong>
-                                </span>
-                    <span class="divider"> / </span>
-                    <span class="language "><img src="/images/flags/en.png">
-                                            <a href="/locale/change/en">En</a>
-                                </span>
-                </div>
+     </script>
+        <nav class="category-tabs">
+            <div class="tab  active ">
+                <a href="https://glaz.tv/online-tv-channels/?ref=tv">
+                    <span class="full">ТВ ОНЛАЙН</span>
+                    <span class="short">тв</span>
+                </a>
             </div>
-            -->
-                    <div class="header-search">
-                        <div class="header-search-form">
-                            <form action="" id="mainSearchForm">
-                                <input type="text" id="js-input-full-search" value="Поиск трансляции">
-                                <button class="header-search-button" type="submit"></button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
- 
- 
-            </div>
-        </header>
- 
- 
- 
+            
         
  
  
@@ -68,6 +43,9 @@
                         } else {
                             type = 'mobile';
                         }
+ 
+                        $.get("/iframes/yandex-ads/top-" + type + ".html", function(data) {
+                            $("#yandex_rtb").html(data);
                         });
                     </script>
                     <br>
@@ -98,9 +76,9 @@
  
  
                     <script type="text/javascript">
-                        var signature = "c2VydmVyX3RpbWU9MS8xNC8yMDIzIDQ6MDc6MjEgQU0maGFzaF92YWx1ZT1zbG1lSEZRVHB4RE5qclNHWGFhMHpnPT0mdmFsaWRtaW51dGVzPTIwMA==";
-                        var cdnSignature = "Nm-1drIafVuRK7T8-wBR-w";
-                        var cdnTime = 1674274041;
+                        var signature = "c2VydmVyX3RpbWU9MS8xNC8yMDIzIDQ6MzU6MzUgQU0maGFzaF92YWx1ZT1nRzVZK3BXRjRkZG91UTJ0cGJHWmR3PT0mdmFsaWRtaW51dGVzPTIwMA==";
+                        var cdnSignature = "rZoK3mXqCp710TA4_kOlvg";
+                        var cdnTime = 1674275735;
                     </script>
  
                     <div id="desktop-player">
@@ -115,9 +93,9 @@
                                             playerjsFile = 'https://' + videoCDNDomain["live"] + '/live/rossiya1.stream/playlist.m3u8?e=' + cdnTime + '&md5=' + cdnSignature;
                                         } else {
                                             if (isHQ === true) {
-                                                playerjsFile = "[lq]" + BalancerStreamServer.replaceAll("[stream]", "rossiya1.stream/playlist.m3u8?wmsAuthSign=" + signature) + " or https://s208.glaz.tv:8082/liveg/rossiya1b.stream/playlist.m3u8?wmsAuthSign=" + signature + ",[hq]" + BalancerStreamServer.replaceAll("[stream]", "rossiya1-hq.stream/playlist.m3u8?wmsAuthSign=" + signature) + " or https://s208.glaz.tv:8082/liveg/rossiya1b.stream/playlist.m3u8?wmsAuthSign=" + signature;
+                                                playerjsFile = "[lq]" + BalancerStreamServer.replaceAll("[stream]", "rossiya1.stream/playlist.m3u8?wmsAuthSign=" + signature) + " or https://s189.glaz.tv:8082/liveg/rossiya1b.stream/playlist.m3u8?wmsAuthSign=" + signature + ",[hq]" + BalancerStreamServer.replaceAll("[stream]", "rossiya1-hq.stream/playlist.m3u8?wmsAuthSign=" + signature) + " or https://s189.glaz.tv:8082/liveg/rossiya1b.stream/playlist.m3u8?wmsAuthSign=" + signature;
                                             } else {
-                                                playerjsFile = BalancerStreamServer.replaceAll("[stream]", "rossiya1.stream/playlist.m3u8?wmsAuthSign=" + signature) + " or https://s208.glaz.tv:8082/liveg/rossiya1b.stream/playlist.m3u8?wmsAuthSign=" + signature;
+                                                playerjsFile = BalancerStreamServer.replaceAll("[stream]", "rossiya1.stream/playlist.m3u8?wmsAuthSign=" + signature) + " or https://s189.glaz.tv:8082/liveg/rossiya1b.stream/playlist.m3u8?wmsAuthSign=" + signature;
                                             }
                                         }
  
@@ -128,6 +106,5 @@
                                             autoplay: 1
                                         });
                                     </script>
- 
 </body>
 </html>
