@@ -1,1 +1,13 @@
-https://smotret.tv/music/iframes/1hd.html
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+    <a href="https://raw.githack.com/NixNixon/freeplay/main/FPlayOnline.html"><img src="https://raw.githack.com/NixNixon/freeplay/main/FPlayOnline.png" style="width:100%;height:100%"/></a>
+        Первый музыкальный телеканал в формате высокой чëткости <br> В сетке вещания представлена музыка разных стилей.<br><br><br><br><br><br><br><br><br>
+        <img src="https://picon.ml/1hd-music.png" id="stop" style="width:300px;height:300px;position:absolute;top:150px;left:900px"/>
+        <iframe src="https://smotret.tv/music/iframes/1hd.html" style="width:100%;height:720px"></iframe>
+        <iframe src="https://epg.iptvx.one/id/1hd" style="width:100%;height:720px"></iframe>
+    </body>
+</html>
