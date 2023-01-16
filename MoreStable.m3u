@@ -44,3 +44,7 @@ https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино", Amedia Premium
 https://sc.id-tv.kz/amedia_pr_hd.m3u8
+
+
+#EXTINF:-1 group-title="Детские", Ani
+https://stream01.fishka.ws:443/ani/index.m3u8?token=test
