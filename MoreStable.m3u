@@ -113,3 +113,7 @@ https://edge02.smart.az/o5/discovery/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 http://81.177.165.206:8008/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные",  DocuBox
+http://93.189.60.202:8080/968/index.m3u8
