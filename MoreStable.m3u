@@ -129,3 +129,10 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные", Europa Plus TV
 http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Спортивные", Eurosport 1 HD
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+
+#EXTINF:-1 group-title="Спортивные", Eurosport 2 HD
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
