@@ -163,3 +163,7 @@ http://176.74.80.162:8099/FashionBox/index.m3u8
 
 #EXTINF:-1 group-title="СтильЖизни", Fast&FunBox
 http://45.94.219.9:8081/stream/test76/hls/playlist.m3u8
+
+
+#EXTINF:-1 group-title="СтильЖизни", FightBox
+http://176.74.80.162:8099/FightBox/index.m3u8
