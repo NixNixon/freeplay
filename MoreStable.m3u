@@ -173,3 +173,10 @@ http://93.189.60.202:8080/1071/index.m3u8
 
 #EXTINF:-1 group-title="Кино", FlixSnip
 https://sc.id-tv.kz/FlixSnip.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Fox HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+
+#EXTINF:-1 group-title="Кино", Fox Life HD
+http://myott.top/stream/DEKA6YA5JRN/129.m3u8
