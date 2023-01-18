@@ -152,3 +152,7 @@ http://193.33.240.8:8080/fan/index.m3u8
 
 #EXTINF:-1 group-title="СтильЖизни", Fashion One
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8
+
+
+#EXTINF:-1 group-title="СтильЖизни", Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
