@@ -219,3 +219,10 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Insight
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Спортивные", KHL
+https://sc.id-tv.kz:443/KHL_36_37.m3u8
+
+#EXTINF:-1 group-title="Спортивные", KHL Prime
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
