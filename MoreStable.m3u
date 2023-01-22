@@ -205,6 +205,10 @@ https://sc.id-tv.kz:443/HistoryHD_36_37.m3u8
 https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 
 
+#EXTINF:-1 group-title="Хобби", HGTV Torrent
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1261/stream.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Hollywood
 http://79.141.211.254:8000/Hollywood
 
@@ -218,6 +222,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", ID Investigation Discovery Torrent
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/701/stream.m3u8
+
 
 #EXTINF:-1 group-title="Познавательные", Insight
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
