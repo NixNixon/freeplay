@@ -248,3 +248,18 @@ https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Спортивные", MMA TV
 https://sc.id-tv.kz/M-1_34_35.m3u8
+
+
+#EXTINF:-1 group-title="Музыкальные", MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 group-title="Музыкальные", MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Museum
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1889/stream.m3u8
+
+
+#EXTINF:-1 group-title="Музыкальные", Music Box Gold
+http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
