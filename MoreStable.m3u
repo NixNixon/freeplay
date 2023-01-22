@@ -275,6 +275,15 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://212.0.213.132:8082/National_Geographic/index.m3u8
 
-
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+
+#EXTINF:-1 group-title="Детские", Nick Jr
+https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+
+#EXTINF:-1 group-title="Детские", Nickelodeon
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+
+#EXTINF:-1 group-title="Детские", Nick Toons
+http://89.254.128.5:22280/nicktoons/video.m3u8
