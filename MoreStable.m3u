@@ -233,3 +233,15 @@ https://sc.id-tv.kz:443/KHL_36_37.m3u8
 
 #EXTINF:-1 group-title="Спортивные", KHL Prime
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+
+
+#EXTINF:-1 group-title="Музыкальные", MCM Top
+http://79.141.211.254:8000/MCM
+
+
+#EXTINF:-1 group-title="Музыкальные", Mezzo
+https://sc.id-tv.kz/mezzo_34_35.m3u8
+
+
+#EXTINF:-1 group-title="Музыкальные", Mezzo Live
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
