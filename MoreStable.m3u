@@ -242,6 +242,9 @@ http://79.141.211.254:8000/MCM
 #EXTINF:-1 group-title="Музыкальные", Mezzo
 https://sc.id-tv.kz/mezzo_34_35.m3u8
 
-
 #EXTINF:-1 group-title="Музыкальные", Mezzo Live
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+
+
+#EXTINF:-1 group-title="Спортивные", MMA TV
+https://sc.id-tv.kz/M-1_34_35.m3u8
