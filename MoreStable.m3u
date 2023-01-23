@@ -291,3 +291,7 @@ http://89.254.128.5:22280/nicktoons/video.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+
+
+#EXTINF:-1 group-title="Кино", Plan B
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2024/stream.m3u8
