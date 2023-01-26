@@ -51,7 +51,7 @@ https://sc.id-tv.kz/amedia_pr_hd.m3u8
 
 
 #EXTINF:-1 group-title="Детские", Ani
-https://stream01.fishka.ws:443/ani/index.m3u8?token=test
+http://31.210.208.167:80/ani/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
