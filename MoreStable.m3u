@@ -383,3 +383,15 @@ https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино", Еврокино
 http://185.23.80.28:8080/EuroKino/index.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Иллюзион+
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Индийское кино
+https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Индия Torrent
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2047/stream.m3u8
