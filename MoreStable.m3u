@@ -185,6 +185,9 @@ http://93.189.60.202:8080/1071/index.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
 https://sc.id-tv.kz/FlixSnip.m3u8
 
+#EXTINF:-1 group-title="Хобби", Food Time
+http://cdn.am01.spr24.net:81/137/index.m3u8?token=7t4p47A93etzsd
+
 
 #EXTINF:-1 group-title="Кино", Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
@@ -262,6 +265,8 @@ https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA TV
 https://sc.id-tv.kz/M-1_34_35.m3u8
 
+#EXTINF:-1 group-title="Музыкальные", MTV Live
+http://cdn.am01.spr24.net:81/134/index.m3u8?token=7t4p47A93etzsd
 
 #EXTINF:-1 group-title="Музыкальные", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -288,7 +293,10 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://212.0.213.132:8082/National_Geographic/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", National Geographic Wild
+#EXTINF:-1 group-title="Познавательные", National Geographic
+http://cdn.am01.spr24.net:81/124/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild H D
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
@@ -338,6 +346,9 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 
 #EXTINF:-1 group-title="Кино", Star Family HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Музыкальные", Stingray iConcerts
+http://cdn.am01.spr24.net:81/126/index.m3u8?token=7t4p47A93etzsd
 
 
 #EXTINF:-1 group-title="Кино", Trash MLIGood
@@ -450,6 +461,15 @@ https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино", Комедийное
 http://nl01.spr24.net/120/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Кино", Любимое
+http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Кино", Наше
+http://cdn.am01.spr24.net:81/123/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Кино", Остросюжетное
+http://cdn.am01.spr24.net:81/122/index.m3u8?token=7t4p47A93etzsd
 
 #EXTINF:-1 group-title="Кино", Премиальное
 http://cdn.am01.spr24.net:81/121/index.m3u8?token=7t4p47A93etzsd
