@@ -333,6 +333,10 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 http://31.146.176.94:80/RTG/index.m3u8 
 
 
+#EXTINF:-1 group-title="Спортивные", Russian Extremm HD
+http://cdn.am01.spr24.net:81/143/index.m3u8?token=7t4p47A93etzsd
+
+
 #EXTINF:-1 group-title="Кино", Sci-Fi
 http://91.207.180.142:80/Sony_Sci_Fi/index.m3u8
 
