@@ -422,4 +422,21 @@ https://edge02.smart.az/o3/kinokomediya/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", Киноман
 http://89.223.46.189:8080/kinosat/index.m3u8
-   
+ 
+
+#EXTINF:-1 group-title="Кино", Киномикс
+https://edge02.smart.az/o3/kinomiks/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+
+
+#EXTINF:-1 group-title="Кино", Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+
+#EXTINF:-1 group-title="Кино", Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+
+#EXTINF:-1 group-title="Кино", Киносемья
+https://edge02.smart.az/o2/kinosemya/playlist.m3u8
