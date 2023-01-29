@@ -389,6 +389,10 @@ http://138.201.67.145:8081/Dom_kino_premium_HD/index.m3u8
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 
 
+#EXTINF:-1 group-title="Кино", Душевное
+http://cdn.am01.spr24.net:81/107/index.m3u8?token=7t4p47A93etzsd
+
+
 #EXTINF:-1 group-title="Кино", Еврокино
 http://185.23.80.28:8080/EuroKino/index.m3u8
 
@@ -440,3 +444,15 @@ https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино", Киносемья
 https://edge02.smart.az/o2/kinosemya/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино", Кинохит
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+
+#EXTINF:-1 group-title="Кино", Комедийное
+http://nl01.spr24.net/120/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Кино", Премиальное
+http://cdn.am01.spr24.net:81/121/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Кино", Шокирующие
+http://cdn.am01.spr24.net:81/119/index.m3u8?token=7t4p47A93etzsd
