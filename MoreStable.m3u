@@ -467,6 +467,10 @@ https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья
 https://edge02.smart.az/o2/kinosemya/playlist.m3u8
 
+#EXTINF:-1 group-title="Кино", Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Кинохит
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
