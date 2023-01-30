@@ -293,10 +293,10 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://212.0.213.132:8082/National_Geographic/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", National Geographic
-http://cdn.am01.spr24.net:81/124/index.m3u8?token=7t4p47A93etzsd
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild
+http://cdn.am01.spr24.net:81/124/index.m3u8?token=7t4p47A93etzsd 
 
-#EXTINF:-1 group-title="Познавательные", National Geographic Wild H D
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
