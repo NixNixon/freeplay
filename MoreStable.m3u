@@ -431,6 +431,10 @@ http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/2047/str
 http://cdn.am01.spr24.net:81/148/index.m3u8?token=7t4p47A93etzsd
 
 
+#EXTINF:-1 group-title="Кино", Кинеко
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Кино UHD TTV
 http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/1291/stream.m3u8
 
