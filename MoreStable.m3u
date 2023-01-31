@@ -509,6 +509,10 @@ http://45.132.87.69:8080/nashelubimoe/index.m3u8
 http://185.23.80.28:8080/NashKinopokaz/index.m3u8
 
 
+#EXTINF:-1 group-title="Кино", Наше мужское
+http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Остросюжетное
 http://cdn.am01.spr24.net:81/122/index.m3u8?token=7t4p47A93etzsd
 
