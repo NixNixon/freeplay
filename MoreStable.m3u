@@ -480,8 +480,16 @@ http://nl01.spr24.net/120/index.m3u8?token=7t4p47A93etzsd
 #EXTINF:-1 group-title="Кино", Любимое
 http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
 
+
+#EXTINF:-1 group-title="Кино", Мир сериала
+http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/456/stream.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Наше
 http://cdn.am01.spr24.net:81/123/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Кино", Наше любимое кино
+http://45.132.87.69:8080/nashelubimoe/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Остросюжетное
 http://cdn.am01.spr24.net:81/122/index.m3u8?token=7t4p47A93etzsd
