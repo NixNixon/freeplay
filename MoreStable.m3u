@@ -517,6 +517,16 @@ http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
 https://edge02.smart.az/o2/nashenovoekino/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Кино", НСТ
+https://sc.id-tv.kz/NSTV.m3u8
+
+
+#EXTINF:-1 group-title="Кино", НТВ Сериал HD
+http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Кино", НТВ Хит HD
+http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Кино", Остросюжетное
 http://cdn.am01.spr24.net:81/122/index.m3u8?token=7t4p47A93etzsd
 
