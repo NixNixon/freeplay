@@ -432,13 +432,17 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино", ViP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Кино", Дом Кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+
+#EXTINF:-1 group-title="Детские", Детский мир
+https://edge02.smart.az/o4/detskiymir/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://91.207.180.142/V_Gostyakh_U_Skazki/index.m3u8
 
+
+#EXTINF:-1 group-title="Кино", Дом Кино
+https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 
 #EXTINF:-1 group-title="Кино", Дом Кино Премиум HD
 http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
@@ -548,6 +552,13 @@ https://edge02.smart.az/o1/mosfilm/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+
+
+#EXTINF:-1 group-title="Детские", Мульт
+https://sc.id-tv.kz:443/Mult_34_35.m3u8
+
+#EXTINF:-1 group-title="Детские", Мульт HD
+http://91.207.180.142:80/Mult/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Наше
