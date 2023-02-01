@@ -390,6 +390,10 @@ https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 http://cdn.am01.spr24.net:81/126/index.m3u8?token=7t4p47A93etzsd
 
 
+#EXTINF:-1 group-title="Детские", TiJi
+https://sc.id-tv.kz:443/TiJi_34_35.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Trash MLIGood
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 
@@ -430,6 +434,11 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 
 #EXTINF:-1 group-title="Кино", Дом Кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+
+
+#EXTINF:-1 group-title="Детские", В гостях у сказки
+http://91.207.180.142/V_Gostyakh_U_Skazki/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино", Дом Кино Премиум HD
 http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
@@ -627,6 +636,10 @@ http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", Ужастик
 https://edge-01.kino.watch/horror/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Успех
+http://91.207.180.142/uspeh/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Феникс+Кино
