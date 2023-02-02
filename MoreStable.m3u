@@ -640,12 +640,20 @@ https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 http://78.25.155.47:1309/channel/Rus_rom.ts
 
 
+#EXTINF:-1 group-title="Детские", Рыжий
+http://193.33.240.8:8080/ryzhiy/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Сапфир
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
+
+
+#EXTINF:-1 group-title="Детские", Смайлик ТВ
+https://livetv.mylifeisgood.ml/channels/smile.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Смотрим ТВ HD
