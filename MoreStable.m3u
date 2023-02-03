@@ -664,6 +664,14 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 http://138.201.67.145:8081/Strashnoe_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="Детские", СТС Kids
+http://89.223.46.189:8080/sts_kids/index.m3u8
+
+
+#EXTINF:-1 group-title="Детские", СуперГерои
+http://95.217.196.109:8081/russia/malish/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 
