@@ -680,6 +680,10 @@ http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 https://edge-01.kino.watch/horror/index.m3u8
 
 
+#EXTINF:-1 group-title="Детские", Уникум
+http://185.23.80.28:8080/Unikum/index.m3u8 
+
+
 #EXTINF:-1 group-title="Познавательные", Успех
 http://91.207.180.142/uspeh/index.m3u8
 
