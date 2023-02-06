@@ -1,4 +1,4 @@
-By#EXTM3U tvg-url="https://iptvx.one/EPG"
+#EXTM3U tvg-url="https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="Музыкальные", 1HD
 https://sc.id-tv.kz/1hd_34_35.m3u8
@@ -233,7 +233,7 @@ https://sc.id-tv.kz/hdl.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", History
-https://sc.id-tv.kz:443/HistoryHD_36_37.m3u8
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 
 #EXTINF:-1 group-title="Познавательные", History 2
 https://sc.id-tv.kz:443/H2HD_36_37.m3u8
