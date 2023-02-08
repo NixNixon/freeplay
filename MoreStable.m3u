@@ -667,7 +667,7 @@ https://edge-01.kino.watch/fresh/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
-https://livetv.mylifeisgood.ml/channels/smile.m3u8
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Смотрим Кино
@@ -689,7 +689,7 @@ http://89.223.46.189:8080/sts_kids/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", СуперГерои
-http://95.217.196.109:8081/russia/malish/playlist.m3u8
+http://89.223.46.189:8080/malish/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Тайна
