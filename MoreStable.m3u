@@ -212,8 +212,8 @@ https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Fox Life HD
 http://myott.top/stream/DEKA6YA5JRN/129.m3u8
 
-#EXTINF:-1 group-title="Познаватеьные", Galaxy
-http://cdn.am01.spr24.net:81/146/index.m3u8?token=7t4p47A93etzsd
+#EXTINF:-1 group-title="Познавательные", Galaxy
+https://ip2.pokaz.me:1443/205/index.m3u8?wmsAuthSign=1675864794p23i891i35i48S5040735d6fa8acf8a4f4badb7d272aed
 
 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
@@ -676,7 +676,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="Кино", Смотрим Мелодрама
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино", Смотрим Новости
+#EXTINF:-1 group-title="Новостные", Смотрим Новости
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc11_hd/playlist_6.m3u8
 
 
