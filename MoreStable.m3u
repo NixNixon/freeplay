@@ -670,8 +670,14 @@ https://edge-01.kino.watch/fresh/index.m3u8
 https://livetv.mylifeisgood.ml/channels/smile.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Смотрим ТВ HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="Кино", Смотрим Кино
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино", Смотрим Мелодрама
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино", Смотрим Новости
+http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc11_hd/playlist_6.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Страшное HD
