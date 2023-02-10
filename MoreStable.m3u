@@ -665,6 +665,11 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc11_hd/playlist_6.m3u8
 http://138.201.67.145:8081/Strashnoe_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="Детские", Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+
 #EXTINF:-1 group-title="Детские", СТС Kids
 http://89.223.46.189:8080/sts_kids/index.m3u8
 
