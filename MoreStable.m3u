@@ -30,8 +30,6 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", 360 Подмосковье
 http://78.25.155.47:1309/channel/360.ts
 
-#EXTINF:-1 group-title="Познавательные", 360 Подмосковье HD
-http://146.158.0.56/360HD/index.m3u8
 
 #EXTINF:-1 group-title="Новостные", 360 Новости
 https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
@@ -87,7 +85,7 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Bolt
-https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/480p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 
 
 #EXTINF:-1 group-title="Детские", Boomerang
@@ -143,10 +141,6 @@ https://edge02.smart.az/o5/discovery/playlist.m3u8
 http://81.177.165.206:8008/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Познавательные",  DocuBox
-http://93.189.60.202:8080/968/index.m3u8
-
-
 #EXTINF:-1 group-title="Детские", Duck TV
 https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 
@@ -189,9 +183,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 group-title="СтильЖизни", FashionBox
 http://176.74.80.162:8099/FashionBox/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные", Fast&FunBox
-http://45.94.219.9:8081/stream/test76/hls/playlist.m3u8
-
 #EXTINF:-1 group-title="Спортивные", FightBox
 http://176.74.80.162:8099/FightBox/index.m3u8
 
@@ -211,9 +202,6 @@ https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино", Fox Life HD
 http://myott.top/stream/DEKA6YA5JRN/129.m3u8
-
-#EXTINF:-1 group-title="Познавательные", Galaxy
-https://ip2.pokaz.me:1443/205/index.m3u8?wmsAuthSign=1675864794p23i891i35i48S5040735d6fa8acf8a4f4badb7d272aed
 
 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
@@ -240,9 +228,9 @@ https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 
 
 #EXTINF:-1 group-title="Хобби", HGTV TTV
-http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/1261/stream.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1261/stream.m3u8
 
-
+ 
 #EXTINF:-1 group-title="Кино", Hollywood
 http://79.141.211.254:8000/Hollywood
 
@@ -257,7 +245,7 @@ http://109.200.135.130:8080/home4k/index.m3u8?token=test
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", ID Investigation Discovery HD
-http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/701/stream.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/701/stream.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Insight
@@ -269,13 +257,6 @@ https://sc.id-tv.kz:443/KHL_36_37.m3u8
 
 #EXTINF:-1 group-title="Спортивные", KHL Prime
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
-
-
-#EXTINF:-1 group-title="Кино", KinoJam 1
-http://91.207.180.142/kinodjem1/index.m3u8
-
-#EXTINF:-1 group-title="Кино", KinoJam 2
-http://91.207.180.142/kinodjem2/index.m3u8
 
 
 #EXTINF:-1 group-title="Музыкальные", MCM Top
@@ -306,7 +287,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Museum
-http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/1889/stream.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1889/stream.m3u8
 
 
 #EXTINF:-1 group-title="Музыкальные", Music Box Gold
@@ -342,7 +323,7 @@ http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
 
 
 #EXTINF:-1 group-title="Кино", Plan B
-http://streamer.enchart.one/42/f4a5942c24b17123fbdf3935348165a89e4cb3e6/2024/stream.m3u8
+http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2024/stream.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Red
