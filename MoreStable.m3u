@@ -77,6 +77,10 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 
 
+#EXTINF:-1 group-title="Детские", Baby TV Spain{AceStream}
+http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/3700a2d2040be3533e280fb0fe994dfb.m3u8
+
+
 #EXTINF:-1 group-title="Кино", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
 
@@ -540,6 +544,9 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/139/stre
 http://109.200.135.130:8080/comedy/index.m3u8?token=test
 
 
+#EXTINF:-1 group-title="Кино", Любимое {AceStream}
+http://127.0.0.1:6878/ace/m/156283f58f21399fb21145d36fd43419da56bfbf/f7c022a6dc5a35350115bea70d9790b9.m3u8
+
 #EXTINF:-1 group-title="Кино", Любимое {VLC}
 http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
 
@@ -578,6 +585,10 @@ http://45.132.87.69:8080/nashelubimoe/index.m3u8
 http://185.23.80.28:8080/NashKinopokaz/index.m3u8
 
 
+#EXTINF:-1 group-title="Кино", Наше крутое {AceStream}
+http://127.0.0.1:6878/ace/m/43457f20587e5837ff55c0b46ac549dfc155103a/df454daee133135e447c0e078d41ce20.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Наше мужское {VLC}
 http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
 
@@ -599,6 +610,10 @@ http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Детские", О!
 https://sc.id-tv.kz/o_36_37.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Остросюжетное {AceStream}
+http://127.0.0.1:6878/ace/m/da7e8d2f8d00e935946fb17a88d6eab62e7212ef/ea914c01ba89f14759d6a67f84059cf6.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Остросюжетное {VLC}
