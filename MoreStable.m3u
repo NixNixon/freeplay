@@ -469,6 +469,10 @@ http://cdn.am01.spr24.net:81/107/index.m3u8?token=7t4p47A93etzsd
 http://185.23.80.28:8080/EuroKino/index.m3u8
 
 
+#EXTINF:-1 group-title="Новостные", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Иллюзион+
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 
