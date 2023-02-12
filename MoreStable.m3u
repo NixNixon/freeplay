@@ -575,6 +575,10 @@ http://127.0.0.1:6878/ace/m/156283f58f21399fb21145d36fd43419da56bfbf/f7c022a6dc5
 http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
 
 
+#EXTINF:-1 group-title="Новостные", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/456/stream.m3u8
 
@@ -669,6 +673,10 @@ http://185.23.80.28:8080/ProLyubov/index.m3u8
 
 #EXTINF:-1 group-title="Детские", Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+
+#EXTINF:-1 group-title="Новостные", РБК-ТВ
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 
 
 #EXTINF:-1 group-title="Федеральные", Рен ТВ HD
