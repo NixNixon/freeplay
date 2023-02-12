@@ -692,6 +692,10 @@ http://193.33.240.8:8080/ryzhiy/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 
 
+#EXTINF:-1 group-title="Кино", Сериал UHD {AceStream}
+http://127.0.0.1:6878/ace/m/32fa4e9c1c34b06c9cdbced939dee4b6b6c5beba/16e280f12a4e77305f4b6f3fc6f35819.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
 
