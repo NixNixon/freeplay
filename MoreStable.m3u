@@ -443,8 +443,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 https://edge02.smart.az/o4/detskiymir/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Детские", В гостях у сказки
-http://91.207.180.142/V_Gostyakh_U_Skazki/index.m3u8
+#EXTINF:-1 group-title="Детские", В гостях у сказки {AceStream}
+http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
 
 
 #EXTINF:-1 group-title="Кино", Дом Кино
@@ -755,7 +755,7 @@ https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
 http://127.0.0.1:6878/ace/m/65ae3e0427ef14d9ef88f0183c011e6ff42ca062/5679904a10b05364723325c2b15aa27b.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Хит HD
+#EXTINF:-1 group-title="Кино", Хит HD {AceStream}
 http://127.0.0.1:6878/ace/m/c6b97fd0578b6f279870a6d002640c1fc97e810a/96215638236b417566d53a511caac963.m3u8
 
 
