@@ -712,5 +712,9 @@ http://91.207.180.142/uspeh/index.m3u8
 https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
 
 
+#EXTINF:-1 group-title="Спортивные", Футбольный
+http://127.0.0.1:6878/ace/m/65ae3e0427ef14d9ef88f0183c011e6ff42ca062/5679904a10b05364723325c2b15aa27b.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Шокирующие
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/170/stream.m3u8
