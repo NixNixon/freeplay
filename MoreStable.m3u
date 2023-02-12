@@ -412,6 +412,10 @@ http://live-sovsec.cdnvideo.ru/sovsec/sovsec_orig/playlist.m3u8
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 
 
+#EXTINF:-1 group-title="Кино", Travel+Adventure HD
+http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="Кино", TV XXI
 http://31.210.208.167:80/xxi/index.m3u8?token=test
 
