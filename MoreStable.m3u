@@ -184,7 +184,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://176.74.80.162:8099/FashionBox/index.m3u8
 
 
-#EXTINF:-1 group-title="Спортивные", Fast&FunBox
+#EXTINF:-1 group-title="Спортивные", Fast&FunBox {AceStream}
 acestream://c811cde690d467a2e45d3c263c4f0960a3933d18
 
 
@@ -198,7 +198,7 @@ http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
 https://sc.id-tv.kz/FlixSnip.m3u8
 
-#EXTINF:-1 group-title="Хобби", Food Time
+#EXTINF:-1 group-title="Хобби", Food Time {VLC}
 http://cdn.am01.spr24.net:81/137/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -236,7 +236,7 @@ https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1261/stream.m3u8
 
  
-#EXTINF:-1 group-title="Кино", Hollywood
+#EXTINF:-1 group-title="Кино", Hollywood {VLC}
 http://79.141.211.254:8000/Hollywood
 
 #EXTINF:-1 group-title="Кино", Hollywood HD
@@ -282,7 +282,7 @@ https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="Спортивные", MMA TV
 https://sc.id-tv.kz/M-1_34_35.m3u8
 
-#EXTINF:-1 group-title="Музыкальные", MTV Live
+#EXTINF:-1 group-title="Музыкальные", MTV Live {VLC}
 http://cdn.am01.spr24.net:81/134/index.m3u8?token=7t4p47A93etzsd
 
 #EXTINF:-1 group-title="Музыкальные", MTV Biggest Pop
@@ -308,9 +308,9 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", National Geographic
-http://212.0.213.132:8082/National_Geographic/index.m3u8
+http://45.159.74.13/NationalGeographic/mono.m3u8
 
-#EXTINF:-1 group-title="Познавательные", National Geographic Wild
+#EXTINF:-1 group-title="Познавательные", National Geographic Wild {VLC}
 http://cdn.am01.spr24.net:81/124/index.m3u8?token=7t4p47A93etzsd 
 
 #EXTINF:-1 group-title="Познавательные", National Geographic Wild HD
@@ -350,7 +350,7 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 http://31.146.176.94:80/RTG/index.m3u8 
 
 
-#EXTINF:-1 group-title="Спортивные", Russian Extremm HD
+#EXTINF:-1 group-title="Спортивные", Russian Extremm HD {VLC}
 http://cdn.am01.spr24.net:81/143/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -376,7 +376,7 @@ https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
 
 
-#EXTINF:-1 group-title="Музыкальные", Stingray iConcerts
+#EXTINF:-1 group-title="Музыкальные", Stingray iConcerts {VLC}
 http://cdn.am01.spr24.net:81/126/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -445,7 +445,7 @@ http://138.201.67.145:8081/Dom_kino_premium_HD/index.m3u8
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Душевное
+#EXTINF:-1 group-title="Кино", Душевное {VLC}
 http://cdn.am01.spr24.net:81/107/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -461,11 +461,11 @@ https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Индия TTV
+#EXTINF:-1 group-title="Кино", Индия
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2047/stream.m3u8
 
 
-#EXTINF:-1 group-title="Детские", Капитан Фантастика HD
+#EXTINF:-1 group-title="Детские", Капитан Фантастика {VLC}
 http://cdn.am01.spr24.net:81/148/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -536,7 +536,7 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/139/stre
 http://109.200.135.130:8080/comedy/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="Кино", Любимое
+#EXTINF:-1 group-title="Кино", Любимое {VLC}
 http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -563,18 +563,18 @@ http://91.207.180.142:80/Mult/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Наше
+#EXTINF:-1 group-title="Кино", Наше {VLC}
 http://cdn.am01.spr24.net:81/123/index.m3u8?token=7t4p47A93etzsd
 
 #EXTINF:-1 group-title="Кино", Наше любимое кино
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Наш кинопоказ
+#EXTINF:-1 group-title="Кино", Наш кинопоказ {VLC}
 http://185.23.80.28:8080/NashKinopokaz/index.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Наше мужское
+#EXTINF:-1 group-title="Кино", Наше мужское {VLC}
 http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
 
 
@@ -597,7 +597,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/index.m3u8
 https://sc.id-tv.kz/o_36_37.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Остросюжетное
+#EXTINF:-1 group-title="Кино", Остросюжетное {VLC}
 http://cdn.am01.spr24.net:81/122/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -612,15 +612,15 @@ http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1/stream.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Первый космический
+#EXTINF:-1 group-title="Кино", Первый космический {VLC}
 http://cdn.am01.spr24.net:81/145/index.m3u8?token=7t4p47A93etzsd
 
 
-#EXTINF:-1 group-title="Кино", Премиальное
+#EXTINF:-1 group-title="Кино", Премиальное {VLC}
 http://cdn.am01.spr24.net:81/121/index.m3u8?token=7t4p47A93etzsd
 
 
-#EXTINF:-1 group-title="Кино", Про любовь
+#EXTINF:-1 group-title="Кино", Про любовь {VLC}
 http://185.23.80.28:8080/ProLyubov/index.m3u8
 
 
@@ -675,7 +675,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc11_hd/playlist_6.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Страшное HD
+#EXTINF:-1 group-title="Кино", Страшное HD {VLC}
 http://138.201.67.145:8081/Strashnoe_HD/index.m3u8
 
 
@@ -712,7 +712,7 @@ http://91.207.180.142/uspeh/index.m3u8
 https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
 
 
-#EXTINF:-1 group-title="Спортивные", Футбольный
+#EXTINF:-1 group-title="Спортивные", Футбольный {AceStream}
 http://127.0.0.1:6878/ace/m/65ae3e0427ef14d9ef88f0183c011e6ff42ca062/5679904a10b05364723325c2b15aa27b.m3u8
 
 
