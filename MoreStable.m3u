@@ -496,7 +496,11 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2003/str
 https://kino-1.catcast.tv/content/38617/index.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Кино UHD TTV
+#EXTINF:-1 group-title="Кино", Кино UHD {AceStream}
+http://127.0.0.1:6878/ace/m/d092686779efec6d9ccea4409d567b9dfbe29252/d0bc0dc4cd4bd76dd8dd75ef573784ef.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Кино UHD
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1291/stream.m3u8
 
 
