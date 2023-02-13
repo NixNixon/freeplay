@@ -442,6 +442,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+
+
 #EXTINF:-1 group-title="Кино", ViP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 
