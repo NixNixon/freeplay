@@ -491,6 +491,10 @@ https://edge02.smart.az/o4/detskiymir/playlist.m3u8
 http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
 
 
+#EXTINF:-1 group-title="Познавательные", Доктор
+http://195.26.83.96:7024/play/69
+
+
 #EXTINF:-1 group-title="Кино", Дом Кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 
