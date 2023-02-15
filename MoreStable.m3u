@@ -662,6 +662,10 @@ http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/456/stream.m3u8
 
