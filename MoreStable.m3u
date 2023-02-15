@@ -701,6 +701,10 @@ https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 http://78.25.155.47:1309/channel/Nauka.ts
 
 
+#EXTINF:-1 group-title="Познавательные", Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Наше {VLC}
 http://cdn.am01.spr24.net:81/123/index.m3u8?token=7t4p47A93etzsd
 
@@ -747,6 +751,10 @@ http://127.0.0.1:6878/ace/m/da7e8d2f8d00e935946fb17a88d6eab62e7212ef/ea914c01ba8
 http://cdn.am01.spr24.net:81/122/index.m3u8?token=7t4p47A93etzsd
 
 
+#EXTINF:-1 group-title="Познавательные", Открытый мир
+http://146.158.0.56/OtkritiyMir/index.m3u8 
+
+
 #EXTINF:-1 group-title="Федеральные", Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
@@ -758,8 +766,15 @@ http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1/stream.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Первый космический {VLC}
+#EXTINF:-1 group-title="Познавательные", Первый космический {VLC}
 http://cdn.am01.spr24.net:81/145/index.m3u8?token=7t4p47A93etzsd
+
+#EXTINF:-1 group-title="Познавательные", Первый космический HD {VLC}
+http://185.23.80.28:8080/Evrika_HD/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Премиальное {VLC}
