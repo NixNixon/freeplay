@@ -533,6 +533,14 @@ http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", Звезда Плюс HD
+http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8?token=test
+
+
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="Новостные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
