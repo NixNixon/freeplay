@@ -670,6 +670,14 @@ https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/456/stream.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", Мособр ТВ
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Моя Планета
+https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
 https://edge02.smart.az/o1/mosfilm/playlist.m3u8
 
@@ -687,6 +695,10 @@ http://91.207.180.142:80/Mult/index.m3u8
 
 #EXTINF:-1 group-title="Детские", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Наука 2.0
+http://78.25.155.47:1309/channel/Nauka.ts
 
 
 #EXTINF:-1 group-title="Кино", Наше {VLC}
