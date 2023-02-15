@@ -557,6 +557,10 @@ https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2047/stream.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", История
+http://185.32.44.154/istoriya/index.m3u8
+
+
 #EXTINF:-1 group-title="Детские", Капитан Фантастика {VLC}
 http://cdn.am01.spr24.net:81/148/index.m3u8?token=7t4p47A93etzsd
 
