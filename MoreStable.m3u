@@ -525,6 +525,10 @@ http://185.23.80.28:8080/EuroKino/index.m3u8
 http://146.158.0.56:80/EGETV/index.m3u8?token=test
 
 
+#EXTINF:-1 group-title="Познавательные", Живая Планета
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="Новостные", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
