@@ -544,6 +544,9 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2047/str
 #EXTINF:-1 group-title="Детские", Капитан Фантастика {VLC}
 http://cdn.am01.spr24.net:81/148/index.m3u8?token=7t4p47A93etzsd
 
+#EXTINF:-1 group-title="Детские", Капитан Фантастика HD {VLC}
+http://185.23.80.28:8080/KapitanFantastika/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино", Кинеко
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
