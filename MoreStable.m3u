@@ -805,12 +805,24 @@ http://78.25.155.47:1309/channel/Psih_21.ts
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Новостные", РБК-ТВ
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 
 
 #EXTINF:-1 group-title="Федеральные", Рен ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Т24
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Родное кино
