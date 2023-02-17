@@ -881,6 +881,14 @@ http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 http://127.0.0.1:6878/hls/r/06df67d6ec0524bdd1c3eee0c4674b5fd32b3710/4589e3d732789da223f5f75d39a124b5.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", ТВ Экстра
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Телепутешествия
+http://193.33.240.8:80/Teleputeshestviya/video.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Ужастик
 https://edge-01.kino.watch/horror/index.m3u8
 
