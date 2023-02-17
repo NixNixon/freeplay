@@ -785,10 +785,6 @@ http://cdn.am01.spr24.net:81/121/index.m3u8?token=7t4p47A93etzsd
 http://193.33.240.8:8080/teletravel_hd/index.m3u8
 
 
-#EXTINF:-1 group-title="Познавательные", Тайны Галактики
-http://127.0.0.1:6878/hls/r/06df67d6ec0524bdd1c3eee0c4674b5fd32b3710/4589e3d732789da223f5f75d39a124b5.m3u8
-
-
 #EXTINF:-1 group-title="Кино", Про любовь {VLC}
 http://185.23.80.28:8080/ProLyubov/index.m3u8
 
@@ -879,6 +875,10 @@ http://89.223.46.189:8080/malish/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Тайны Галактики
+http://127.0.0.1:6878/hls/r/06df67d6ec0524bdd1c3eee0c4674b5fd32b3710/4589e3d732789da223f5f75d39a124b5.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Ужастик
