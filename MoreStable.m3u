@@ -785,8 +785,20 @@ http://cdn.am01.spr24.net:81/121/index.m3u8?token=7t4p47A93etzsd
 http://193.33.240.8:8080/teletravel_hd/index.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", Тайны Галактики
+http://127.0.0.1:6878/hls/r/06df67d6ec0524bdd1c3eee0c4674b5fd32b3710/4589e3d732789da223f5f75d39a124b5.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Про любовь {VLC}
 http://185.23.80.28:8080/ProLyubov/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Просвещение
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные", Психология21
+http://78.25.155.47:1309/channel/Psih_21.ts
 
 
 #EXTINF:-1 group-title="Детские", Радость моя
