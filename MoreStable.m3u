@@ -471,6 +471,10 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 http://78.25.155.47:1309/channel/zoo.ts
 
 
+#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
+https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
+ 
+
 #EXTINF:-1 group-title="Познавательные", Арсенал HD {VLC}
 http://185.23.80.28:8080/Arsenal_HD/index.m3u8
 
