@@ -62,11 +62,10 @@ http://31.210.208.167:80/ani/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
-https://edge02.smart.az/o5/animalplanet/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Познавательные", Animal Planet HD
 http://31.148.48.15:80/Animal_Planet_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Познавательные", Animal Planet HD {AceStream}
+http://127.0.0.1:6878/ace/m/568159b1059c7bbe3eaf40f123541fef86ef83cb/82061d54a8ee0fbb55f6688c1f1cd2d4.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Big Planet
@@ -77,8 +76,8 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 
 
-#EXTINF:-1 group-title="Детские", Baby TV Spain{AceStream}
-http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/3700a2d2040be3533e280fb0fe994dfb.m3u8
+#EXTINF:-1 group-title="Детские", Baby TV {AceStream}
+http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/c7697b0737aa87a5f37e410237dda015.m3u8
 
 
 #EXTINF:-1 group-title="Кино", BackusTV
@@ -125,8 +124,12 @@ https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 
 
-#EXTINF:-1 group-title="Детские", Cartoon Network
+#EXTINF:-1 group-title="Детские", Cartoon Network HD
 http://iptvmedia.live:8080/stadnik/8f064f8602/12769
+
+
+#EXTINF:-1 group-title="Детские", Cartoon Network {AceStream}
+http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/8be1c7c301e94522269dd3128e9ffd97.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Cinema
@@ -145,8 +148,8 @@ https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 
 
-#EXTINF:-1 group-title="Познавательные", Discovery
-https://edge02.smart.az/o5/discovery/playlist.m3u8 
+#EXTINF:-1 group-title="Познавательные", Discovery HD
+https://sc.id-tv.kz/Disc_chHD_34_35.m3u8 
 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 http://81.177.165.206:8008/playlist.m3u8
@@ -366,7 +369,7 @@ http://cdn.am01.spr24.net:81/143/index.m3u8?token=7t4p47A93etzsd
 
 
 #EXTINF:-1 group-title="Кино", Sci-Fi
-http://91.207.180.142:80/Sony_Sci_Fi/index.m3u8
+http://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Shot TV
