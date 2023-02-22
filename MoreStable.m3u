@@ -730,7 +730,7 @@ http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Наше новое кино
-https://edge02.smart.az/o2/nashenovoekino/playlist.m3u8
+http://78.25.155.47:1309/channel/Kinohit.ts
 
 
 #EXTINF:-1 group-title="Кино", НСТ
