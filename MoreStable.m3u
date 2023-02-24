@@ -145,7 +145,7 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Discovery HD
-https://sc.id-tv.kz/Disc_chHD_34_35.m3u8 
+http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4 
 
 #EXTINF:-1 group-title="Познавательные", Discovery Science
 http://81.177.165.206:8008/playlist.m3u8
