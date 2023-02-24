@@ -64,19 +64,15 @@ http://31.210.208.167:80/ani/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", Animal Planet
 http://31.148.48.15:80/Animal_Planet_HD/index.m3u8?token=test
 
-#EXTINF:-1 group-title="Познавательные", Animal Planet HD {AceStream}
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet-eu", Animal Planet HD {AS}
 http://127.0.0.1:6878/ace/m/568159b1059c7bbe3eaf40f123541fef86ef83cb/82061d54a8ee0fbb55f6688c1f1cd2d4.m3u8
-
-
-#EXTINF:-1 group-title="Познавательные", Big Planet
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 
 
 #EXTINF:-1 group-title="Кино", Black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 
 
-#EXTINF:-1 group-title="Детские", Baby TV {AceStream}
+#EXTINF:-1 group-title="Детские" tvg-id="baby-tv", Baby TV {AceStream}
 http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/c7697b0737aa87a5f37e410237dda015.m3u8
 
 
@@ -98,7 +94,7 @@ https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские", Boomerang HD
 https://stream01.vnet.am/Boomerang/mono.m3u8
 
-#EXTINF:-1 group-title="Детские", Boomerang {AceStream}
+#EXTINF:-1 group-title="Детские" tvg-id="boomerang", Boomerang {AceStream}
 http://127.0.0.1:6878/ace/m/3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc/73c2291c90221dc3032cdba502024259.m3u8
 
 
@@ -128,7 +124,7 @@ https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 http://iptvmedia.live:8080/stadnik/8f064f8602/12769
 
 
-#EXTINF:-1 group-title="Детские", Cartoon Network {AceStream}
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-network", Cartoon Network {AceStream}
 http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/8be1c7c301e94522269dd3128e9ffd97.m3u8
 
 
@@ -186,7 +182,7 @@ https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 http://193.33.240.8:8080/fan/index.m3u8
 
 
-#EXTINF:-1 group-title="СтильЖизни", Fashion&Lifestyle
+#EXTINF:-1 group-title="СтильЖизни" tvg-id="fashion-one-hd", Fashion&Lifestyle
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 
 
@@ -198,21 +194,21 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://176.74.80.162:8099/FashionBox/index.m3u8
 
 
-#EXTINF:-1 group-title="Спортивные", Fast&FunBox {AceStream}
+#EXTINF:-1 group-title="Спортивные" tvg-id="fastfunbox-hd", Fast&FunBox {AceStream}
 acestream://c811cde690d467a2e45d3c263c4f0960a3933d18
 
 
 #EXTINF:-1 group-title="Спортивные", FightBox
 http://176.74.80.162:8099/FightBox/index.m3u8
 
-#EXTINF:-1 group-title="Кино", FilmBox
+#EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru", FilmBox
 http://94.230.240.17:8080/film_box/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", FlixSnip
 https://sc.id-tv.kz/FlixSnip.m3u8
 
-#EXTINF:-1 group-title="Хобби", Food Time {VLC}
+#EXTINF:-1 group-title="Хобби" tvg-id="eda-hd", Food Time {VLC}
 http://cdn.am01.spr24.net:81/137/index.m3u8?token=7t4p47A93etzsd
 
 
@@ -227,7 +223,7 @@ http://myott.top/stream/DEKA6YA5JRN/129.m3u8
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 
 
-#EXTINF:-1 group-title="Развлекательные", Global Star TV
+#EXTINF:-1 group-title="Развлекательные" tvg-id="globalstar", Global Star TV
 http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
 
 
@@ -246,11 +242,11 @@ https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 
 
-#EXTINF:-1 group-title="Хобби", HGTV TTV
+#EXTINF:-1 group-title="Хобби", HGTV
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1261/stream.m3u8
 
  
-#EXTINF:-1 group-title="Кино", Hollywood {VLC}
+#EXTINF:-1 group-title="Кино" tvg-id="hollywood", Hollywood {VLC}
 http://79.141.211.254:8000/Hollywood
 
 #EXTINF:-1 group-title="Кино", Hollywood HD
@@ -260,14 +256,14 @@ http://31.148.48.15:80/Animal_Planet_HD/index.m3u8?token=test
 http://109.200.135.130:8080/home4k/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="Развлекательные", ID Investigation Discovery
+#EXTINF:-1 group-title="Развлекательные" tvg-id="id-xtra-eu", ID Investigation Discovery
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 
-#EXTINF:-1 group-title="Развлекательные", ID Investigation Discovery HD
+#EXTINF:-1 group-title="Развлекательные" tvg-id="id-xtra-eu", ID Investigation Discovery HD
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/701/stream.m3u8
 
 
-#EXTINF:-1 group-title="Познавательные", Insight
+#EXTINF:-1 group-title="Познавательные" tvg-id="insight-tv-hd", Insight
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 
 
