@@ -20,6 +20,11 @@ https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="2na2",2x2 MyLifeIsGood
 https://livetv.mylifeisgood.ml/channels/2x2.m3u8
 #EXTINF:-1 tvg-id="2na2",2x2 Wink
+
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-id="2na2",2x2 First Colo GmbH Германия
 http://iptvmedia.live:8080/stadnik/8f064f8602/60462
+#EXTINF:-1 tvg-id="2na2",2x2 Redkino.net Тверь
+http://79.141.211.254:8000/2x2
+#EXTINF:-1 tvg-id="2na2",2x2 Квант-Телеком Воронеж
+http://31.210.208.167:80/2x2/index.m3u8?token=test
