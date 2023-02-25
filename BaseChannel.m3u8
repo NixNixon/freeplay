@@ -31,3 +31,6 @@ http://79.141.211.254:8000/2x2
 http://31.210.208.167:80/2x2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="2na2",2x2 izone Баку AZ
 http://185.32.44.154/2x2/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang",Boomerang
+http://vipsmarttv.xyz:8080/live/R7rvDGeTmtTG/KwrYve9pDbPU/73467.ts
