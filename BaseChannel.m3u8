@@ -1,17 +1,17 @@
-#EXTM3U 
-#EXTINF:-1,1HD KaspNet Каспийск
+#EXTM3U tvg-url="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="1hd",1HD KaspNet Каспийск
 http://193.33.240.8:8080/1hd/index.m3u8
-#EXTINF:-1,1HD Север-Связь Ноябрьск
+#EXTINF:-1 tvg-id="1hd",1HD Север-Связь Ноябрьск
 http://146.158.0.56/1HD/mono.m3u8
-#EXTINF:-1,1HD Квант-Телеком Воронеж
+#EXTINF:-1 tvg-id="1hd",1HD Квант-Телеком Воронеж
 http://31.210.208.167:80/1hd/index.m3u8?token=test
-#EXTINF:-1,1HD AceStream
+#EXTINF:-1 tvg-id="1hd",1HD AceStream
 http://127.0.0.1:6878/ace/m/5b12f2cf29ad1c793998cf82fbd07ca50c9f1b59/2a8a9d63aadb94d665778e87f6235f58.m3u8
-#EXTINF:-1,1HD ByFly Минск
+#EXTINF:-1 tvg-id="1hd",1HD ByFly Минск
 http://178.124.210.172:8000/play/a03c/index.m3u8
-#EXTINF:-1,1HD MyLifeIsGood
+#EXTINF:-1 tvg-id="1hd",1HD MyLifeIsGood
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
-#EXTINF:-1,1HD iD TV Казахстан
+#EXTINF:-1 tvg-id="1hd",1HD iD TV Казахстан
 https://sc.id-tv.kz/1hd_34_35.m3u8
-#EXTINF:-1,1HD Торрент ТВ
+#EXTINF:-1 tvg-id="1hd",1HD Торрент ТВ
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/403/stream.m3u8
