@@ -7,7 +7,7 @@ http://146.158.0.56/1HD/mono.m3u8
 http://31.210.208.167:80/1hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="1hd",1HD AceStream
 http://127.0.0.1:6878/ace/m/5b12f2cf29ad1c793998cf82fbd07ca50c9f1b59/2a8a9d63aadb94d665778e87f6235f58.m3u8
-#EXTINF:-1 tvg-id="1hd",1HD ByFly Минск
+#EXTINF:-1 tvg-id="1hd",1HD ByFly Минск BY
 http://178.124.210.172:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="1hd",1HD MyLifeIsGood
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
@@ -15,6 +15,7 @@ https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1 tvg-id="1hd",1HD Торрент ТВ
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/403/stream.m3u8
+
 #EXTINF:-1 tvg-id="2na2",2x2 UmaMedia Москва
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="2na2",2x2 MyLifeIsGood
@@ -28,3 +29,5 @@ http://iptvmedia.live:8080/stadnik/8f064f8602/60462
 http://79.141.211.254:8000/2x2
 #EXTINF:-1 tvg-id="2na2",2x2 Квант-Телеком Воронеж
 http://31.210.208.167:80/2x2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="2na2",2x2 izone Баку AZ
+http://185.32.44.154/2x2/index.m3u8
