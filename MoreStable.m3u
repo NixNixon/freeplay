@@ -173,6 +173,9 @@ https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="Новостные", Euronews
 https://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 
+#EXTINF:-1 group-title="Новостные", Euronews {AS}
+http://127.0.0.1:6878/ace/m/f8757bfa9b59fb272c9fd40bdc0fcb4e296d69bf/c5460bda1538e04cb604591b75c697e9.m3u8
+
 
 #EXTINF:-1 group-title="Спортивные", Extreme Sports
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
