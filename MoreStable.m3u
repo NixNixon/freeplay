@@ -425,14 +425,6 @@ http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
 http://31.210.208.167:80/xxi/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="Кино", TV1000
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
-
-#EXTINF:-1 group-title="Кино", TV1000 Action
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
-
-#EXTINF:-1 group-title="Кино", TV1000 Русское Кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", TV BRICS
@@ -451,29 +443,37 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 
 
-#EXTINF:-1 group-title="Познавательные", Viasat Explore HD
+#EXTINF:-1 group-title="Познавательные", Viju Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Viasat History HD
+#EXTINF:-1 group-title="Познавательные", Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Viasat Nature HD
+#EXTINF:-1 group-title="Познавательные", Viju Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Viasat Nature/History HD
+#EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 
+#EXTINF:-1 group-title="Кино", Viju TV1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Кино", ViP Comedy
+#EXTINF:-1 group-title="Кино", Viju TV1000 Action
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Кино", Viju TV1000 Русское
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Кино", Viju+ Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Кино", ViP Megahit
+#EXTINF:-1 group-title="Кино", Viju+ Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Кино", ViP Premiere
+#EXTINF:-1 group-title="Кино", Viju+ Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 
-#EXTINF:-1 group-title="Кино", ViP Serial
+#EXTINF:-1 group-title="Кино", Viju+ Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 
 #EXTINF:-1 group-title="Познавательные", ZooПарк
