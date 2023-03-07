@@ -140,6 +140,10 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 
 
+#EXTINF:-1 group-title="Кино", Comedy Central
+http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+
+
 #EXTINF:-1 group-title="Детские", Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 
@@ -346,6 +350,10 @@ http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино", Plan B
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2024/stream.m3u8
+
+
+#EXTINF:-1 group-title="Спортивные", Qazsport HD
+https://edge01.beetv.kz:443/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Red
