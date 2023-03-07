@@ -518,10 +518,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8
 
 
-#EXTINF:-1 group-title="Детские", Детский мир
-https://edge02.smart.az/o4/detskiymir/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Детские", В гостях у сказки {AceStream}
 http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
 
@@ -534,12 +530,16 @@ http://78.25.155.47:1309/channel/Vopr_i_otv.ts
 http://31.148.48.15:80/Vremya/index.m3u8?token=test
 
 
+#EXTINF:-1 group-title="Детские", Детский мир
+http://80.251.49.103:8004/play/50
+
+
 #EXTINF:-1 group-title="Познавательные", Доктор
 http://195.26.83.96:7024/play/69
 
 
 #EXTINF:-1 group-title="Кино", Дом Кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино", Дом Кино Премиум HD
 http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
