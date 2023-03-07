@@ -68,6 +68,10 @@ http://31.148.48.15:80/Animal_Planet_HD/index.m3u8?token=test
 http://127.0.0.1:6878/ace/m/568159b1059c7bbe3eaf40f123541fef86ef83cb/82061d54a8ee0fbb55f6688c1f1cd2d4.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", Big Planet
+https://edge02.beetv.kz:443/btv/SWM/big_planet_hd/big_planet_hd_1080p_5000kbps.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 
@@ -163,6 +167,10 @@ https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные", English Club TV
+https://edge01.beetv.kz:443/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8
+
+
 #EXTINF:-1 group-title="Музыкальные", Europa Plus TV
 http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
 
@@ -228,6 +236,9 @@ http://myott.top/stream/DEKA6YA5JRN/129.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Galaxy HD
+https://edge01.beetv.kz:443/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd_1080p_5000kbps.m3u8
 
 
 #EXTINF:-1 group-title="Развлекательные" tvg-id="globalstar", Global Star TV
@@ -489,7 +500,7 @@ http://78.25.155.47:1309/channel/zoo.ts
 
 
 #EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
-https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
+https://edge02.beetv.kz:443/btv/SWM/anekdot_tv/anekdot_tv_576p_2000kbps.m3u8
  
 
 #EXTINF:-1 group-title="Познавательные", Арсенал HD {VLC}
@@ -549,6 +560,10 @@ http://185.23.80.28:8080/EuroKino/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", ЕГЭ-ТВ {VLC}
 http://146.158.0.56:80/EGETV/index.m3u8?token=test
+
+
+#EXTINF:-1 group-title="Хобби", Еда Премиум Международный HD
+https://edge03.beetv.kz:443/btv/SWM/eda_premium_hd/eda_premium_hd_1080p_5000kbps.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Живая Планета
