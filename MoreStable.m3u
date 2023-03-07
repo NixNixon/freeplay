@@ -250,7 +250,10 @@ https://sc.id-tv.kz:443/Gulli_34_35.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", HDL
-https://sc.id-tv.kz/hdl.m3u8
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Познавательные", HDL {AS}
+http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
 
 
 #EXTINF:-1 group-title="Познавательные", History
