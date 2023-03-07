@@ -256,11 +256,11 @@ http://31.148.48.15:80/HD_Life/index.m3u8?token=test
 http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
 
 
-#EXTINF:-1 group-title="Познавательные", History
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 group-title="Познавательные", History {AS}
+http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&.mp4
 
-#EXTINF:-1 group-title="Познавательные", History 2
-https://sc.id-tv.kz:443/H2HD_36_37.m3u8
+#EXTINF:-1 group-title="Познавательные", History2 {AS}
+http://127.0.0.1:6878/hls/r/ec046f004a4ad98259e4c0c869d0af25d537ca1b/ad13167071d32363d0e570d1e4da7843.m3u8
 
 
 #EXTINF:-1 group-title="Хобби", HGTV
