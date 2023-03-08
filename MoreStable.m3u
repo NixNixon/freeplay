@@ -663,6 +663,11 @@ http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
+
+#EXTINF:-1 group-title="Кино", Киносат {VLC}
+http://185.23.80.28:8080/KinoSat/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Киносвидание
 https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 
