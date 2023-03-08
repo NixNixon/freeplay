@@ -232,7 +232,7 @@ https://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="eda-hd", Food Time {VLC}
 http://cdn.am01.spr24.net:81/137/index.m3u8?token=7t4p47A93etzsd
 
-
+ 
 #EXTINF:-1 group-title="Кино", Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 
@@ -355,13 +355,13 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
 #EXTINF:-1 group-title="Детские", Nick Jr
-https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr.m3u8
 
 #EXTINF:-1 group-title="Детские", Nickelodeon
-https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+http://31.148.48.15:80/Nickelodeon/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Детские", Nick Toons
-http://89.254.128.5:22280/nicktoons/video.m3u8
+http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Ocean TV
@@ -369,7 +369,7 @@ http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
 
 
 #EXTINF:-1 group-title="Кино", Plan B
-http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2024/stream.m3u8
+http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
 
 
 #EXTINF:-1 group-title="Спортивные", Qazsport HD
