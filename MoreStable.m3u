@@ -471,6 +471,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 
 
+#EXTINF:-1 group-title="Кино", Viasat Kino World
+http://127.0.0.1:6878/ace/m/36327fc5b9ce670f5d51e0eb322b079ae2d06cd8/4244945346f2bf899b4b5711fef39140.m3u8
+
+
 #EXTINF:-1 group-title="Познавательные", Viju Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 
