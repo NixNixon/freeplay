@@ -543,6 +543,10 @@ http://78.25.155.47:1309/channel/Vopr_i_otv.ts
 http://31.148.48.15:80/Vremya/index.m3u8?token=test
 
 
+#EXTINF:-1 group-title="Развлекательные", Глазами Туриста HD
+http://109.200.135.130:8080/glazami_turista_hd/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="Детские", Детский мир
 http://80.251.49.103:8004/play/50
 
@@ -590,8 +594,16 @@ http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 
 
+#EXTINF:-1 group-title="Развлекательные", Живи Активно
+https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
+
+
 #EXTINF:-1 group-title="Познавательные", Звезда Плюс HD
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/1784/stream.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", Здоровое ТВ
+http://78.25.155.47:1309/channel/Zdorovoe.ts
 
 
 #EXTINF:-1 group-title="Познавательные", Зоо ТВ
@@ -618,6 +630,10 @@ http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2047/str
 http://78.25.155.47:1309/channel/Istoria.ts
 
 
+#EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+
+
 #EXTINF:-1 group-title="Детские", Капитан Фантастика {VLC}
 http://cdn.am01.spr24.net:81/148/index.m3u8?token=7t4p47A93etzsd
 
@@ -628,6 +644,10 @@ http://185.23.80.28:8080/KapitanFantastika/index.m3u8
 #EXTINF:-1 group-title="Федеральные", Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", КВН ТВ
+http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="Кино", Кинеко
@@ -795,9 +815,15 @@ http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
 http://78.25.155.47:1309/channel/Kinohit.ts
 
 
+#EXTINF:-1 group-title="Развлекательные", Ностальгия
+http://31.148.48.15:80/Nostalgiya/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="Кино", НСТ
 https://sc.id-tv.kz/NSTV.m3u8
 
+#EXTINF:-1 group-title="Развлекательные", НТВ Право HD
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 
 #EXTINF:-1 group-title="Кино", НТВ Сериал HD
 http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/index.m3u8
@@ -807,7 +833,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", О!
-https://sc.id-tv.kz/o_36_37.m3u8
+http://185.23.80.28:8080/O/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Остросюжетное {AceStream}
