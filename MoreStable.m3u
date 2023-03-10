@@ -182,10 +182,10 @@ http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Спортивные", Eurosport 1 HD
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
 
 #EXTINF:-1 group-title="Спортивные", Eurosport 2 HD
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
 
 
 #EXTINF:-1 group-title="Новостные", Euronews
