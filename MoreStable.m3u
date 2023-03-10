@@ -918,6 +918,10 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 
 
+#EXTINF:-1 group-title="Развлекательные", Ретро
+http://78.25.155.47:1309/channel/Retro.ts
+
+
 #EXTINF:-1 group-title="Познавательные", РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 
@@ -949,6 +953,10 @@ http://193.33.240.8:8080/ryzhiy/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Сапфир
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", Сарафан
+http://78.25.155.47:1309/channel/Sarafan.ts
 
 
 #EXTINF:-1 group-title="Кино", Сериал UHD {AceStream}
