@@ -993,12 +993,18 @@ http://138.201.67.145:8081/Strashnoe_HD/index.m3u8
 http://89.223.46.189:8080/sts_kids/index.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", СТС Love
-http://31.148.48.15:80/STS_Love/index.m3u8?token=test
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
 
 #EXTINF:-1 group-title="Детские", Солнце
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", Суббота
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 
 #EXTINF:-1 group-title="Детские", СуперГерои
@@ -1017,8 +1023,17 @@ http://127.0.0.1:6878/hls/r/06df67d6ec0524bdd1c3eee0c4674b5fd32b3710/4589e3d7327
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 
 
+#EXTINF:-1 group-title="Развлекательные", Театр {VLC}
+http://146.158.0.56:80/Teatr/index.m3u8
+
+
 #EXTINF:-1 group-title="Познавательные", Телепутешествия
 http://193.33.240.8:80/Teleputeshestviya/video.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Ужастик
