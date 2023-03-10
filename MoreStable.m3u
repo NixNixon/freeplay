@@ -95,10 +95,13 @@ http://46.19.100.174:4455/play/a00h/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 
 
+#EXTINF:-1 group-title="Детские", Boomerang
+http://176.222.190.76/btv/SWM/Boomerang/Boomerang.m3u8
+
 #EXTINF:-1 group-title="Детские", Boomerang HD
 https://stream01.vnet.am/Boomerang/mono.m3u8
 
-#EXTINF:-1 group-title="Детские" tvg-id="boomerang", Boomerang {AceStream}
+#EXTINF:-1 group-title="Детские" tvg-id="boomerang", Boomerang {AS}
 http://127.0.0.1:6878/ace/m/3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc/73c2291c90221dc3032cdba502024259.m3u8
 
 
@@ -128,7 +131,7 @@ https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 http://iptvmedia.live:8080/stadnik/8f064f8602/12769
 
 
-#EXTINF:-1 group-title="Детские" tvg-id="cartoon-network", Cartoon Network {AceStream}
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-network", Cartoon Network {AS}
 http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/8be1c7c301e94522269dd3128e9ffd97.m3u8
 
 
