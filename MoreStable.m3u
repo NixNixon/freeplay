@@ -967,6 +967,10 @@ http://127.0.0.1:6878/ace/m/32fa4e9c1c34b06c9cdbced939dee4b6b6c5beba/16e280f12a4
 https://edge-01.kino.watch/fresh/index.m3u8
 
 
+#EXTINF:-1 group-title="Развлекательные", Светлое ТВ
+http://194.158.218.123:8880/SvetloeTV/index.m3u8
+
+
 #EXTINF:-1 group-title="Детские", Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
@@ -985,13 +989,16 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc11_hd/playlist_6.m3u8
 http://138.201.67.145:8081/Strashnoe_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="Детские", СТС Kids
+http://89.223.46.189:8080/sts_kids/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные", СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="Детские", Солнце
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-
-
-#EXTINF:-1 group-title="Детские", СТС Kids
-http://89.223.46.189:8080/sts_kids/index.m3u8
 
 
 #EXTINF:-1 group-title="Детские", СуперГерои
