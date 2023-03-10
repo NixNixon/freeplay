@@ -890,6 +890,10 @@ http://193.33.240.8:8080/teletravel_hd/index.m3u8
 http://185.23.80.28:8080/ProLyubov/index.m3u8
 
 
+#EXTINF:-1 group-title="Развлекательные", Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+
+
 #EXTINF:-1 group-title="Познавательные", Просвещение
 https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
 
