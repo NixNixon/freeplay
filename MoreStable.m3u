@@ -523,8 +523,16 @@ https://edge02.beetv.kz:443/btv/SWM/anekdot_tv/anekdot_tv_576p_2000kbps.m3u8
 http://185.23.80.28:8080/Arsenal_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="Социальные", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+ 
 #EXTINF:-1 group-title="Познавательные", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Социальные", Вместе-РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", В мире животных {VLC}
