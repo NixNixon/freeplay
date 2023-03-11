@@ -1075,5 +1075,19 @@ http://127.0.0.1:6878/ace/m/c6b97fd0578b6f279870a6d002640c1fc97e810a/96215638236
 http://ott-cdn.ucom.am/s20/index.m3u8
 
 
+#EXTINF:-1 group-title="Развлекательные", Че
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Шокирующие
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/170/stream.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", Ю
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
