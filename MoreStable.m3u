@@ -1036,6 +1036,17 @@ http://193.33.240.8:80/Teleputeshestviya/video.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 
+#EXTINF:-1 group-title="Развлекательные", Точка отрыва
+http://176.222.190.76/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
+
+#EXTINF:-1 group-title="Развлекательные", Точка отрыва HD
+http://46.19.100.174:4455/play/a00l/index.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", Точка ТВ
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Ужастик
 https://edge-01.kino.watch/horror/index.m3u8
 
@@ -1058,6 +1069,10 @@ http://127.0.0.1:6878/ace/m/65ae3e0427ef14d9ef88f0183c011e6ff42ca062/5679904a10b
 
 #EXTINF:-1 group-title="Кино", Хит HD {AceStream}
 http://127.0.0.1:6878/ace/m/c6b97fd0578b6f279870a6d002640c1fc97e810a/96215638236b417566d53a511caac963.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные", ЦТВ
+http://ott-cdn.ucom.am/s20/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Шокирующие
