@@ -1007,8 +1007,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 
-#EXTINF:-1 group-title="Детские", СуперГерои
-http://89.223.46.189:8080/malish/index.m3u8
+#EXTINF:-1 group-title="Детские", СуперГерои {VLC}
+http://31.210.208.167:80/malysh/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="Кино", Тайна
