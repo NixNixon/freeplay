@@ -235,12 +235,14 @@ https://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="eda-hd", Food Time {VLC}
 http://cdn.am01.spr24.net:81/137/index.m3u8?token=7t4p47A93etzsd
 
- 
+#EXTINF:-1 group-title="Кино", Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+
 #EXTINF:-1 group-title="Кино", Fox HD
-https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+http://176.222.190.76/btv/SWM/FOX/FOX.m3u8
 
 #EXTINF:-1 group-title="Кино", Fox Life HD
-http://myott.top/stream/DEKA6YA5JRN/129.m3u8
+http://176.222.190.76/btv/SWM/FoxLife/FoxLife.m3u8
 
 
 #EXTINF:-1 group-title="Развлекательные", Gagsnetwork
