@@ -32,24 +32,24 @@ http://31.210.208.167:80/2x2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="2na2",2x2 izone Баку AZ
 http://185.32.44.154/2x2/index.m3u8
 
-#EXTINF:-1, 360 Подмосковье Wink
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Wink
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
-#EXTINF:-1, 360 Подмосковье Facecast NoName
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Facecast NoName
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1, 360 Подмосковье Яндекс Эфир
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Яндекс Эфир
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:-1, 360 Подмосковье Север-Связь Ноябрьск
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Север-Связь Ноябрьск
 http://146.158.0.56/360HD/mono.m3u8
-#EXTINF:-1, 360 Подмосковье Коломна-Связь Коломна
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Коломна-Связь Коломна
 http://78.25.155.47:1309/channel/360.ts
-#EXTINF:-1, 360 Подмосковье MyLifeIsGood
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье MyLifeIsGood
 https://livetv.mylifeisgood.ml/channels/ch360.m3u8
-#EXTINF:-1, 360 Подмосковье Телеком-Сервис Воронеж
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Телеком-Сервис Воронеж
 http://185.23.80.28:8080/Telekanal360_HD/index.m3u8
-#EXTINF:-1, 360 Подмосковье Олимп Телеком Новочеркасск
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Олимп Телеком Новочеркасск
 http://91.234.255.18:8000/play/a04v/index.m3u8
-#EXTINF:-1, 360 Подмосковье Goodline Кемерово
+#EXTINF:-1 tvg-id="360-podmoskovie", 360 Подмосковье Goodline Кемерово
 http://95.181.17.26/streaming/podmoskove360/71/mobile1/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIzIDc6NTg6NDUgQU0maGFzaF92YWx1ZT1JTncvbmVtc3N2d290eTcvN092Zy93PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 tvg-id="boomerang",Boomerang
