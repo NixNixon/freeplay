@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="Музыкальные", 1HD
-http://31.210.208.167:80/1hd/index.m3u8?token=test
+http://193.33.240.8:8080/1hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Развлекательные", 2x2
@@ -65,7 +65,7 @@ http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 
 
 #EXTINF:-1 group-title="Детские", Ani
-http://31.210.208.167:80/ani/index.m3u8?token=test
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Animal Planet
@@ -143,7 +143,10 @@ http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/8be1c7c301e
 
 
 #EXTINF:-1 group-title="Кино", Cinema
-http://31.210.208.167:80/cinema/index.m3u8?token=test
+http://78.58.133.179:27941/play/a076/index.m3u8
+
+#EXTINF:-1 group-title="Кино", Cinema HD
+http://78.58.133.179:27941/play/a06q/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Cinema Classic
@@ -264,7 +267,7 @@ http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
 
 
 #EXTINF:-1 group-title="Детские", Gulli Girl
-https://sc.id-tv.kz:443/Gulli_34_35.m3u8
+http://194.190.78.91:8080/Gulli_OT/video.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", HDL
