@@ -1088,6 +1088,10 @@ http://185.52.77.43:8080/TochkaOtriva/index.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 
 
+#EXTINF:-1 group-title="Спортивные", Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Ужастик
 https://edge-01.kino.watch/horror/index.m3u8
 
