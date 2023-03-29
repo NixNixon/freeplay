@@ -544,7 +544,11 @@ http://185.23.80.28:8080/Arsenal_HD/index.m3u8
 #EXTINF:-1 group-title="Социальные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
- 
+
+#EXTINF:-1 group-title="Спортивные", Бокс ТВ
+http://178.160.249.210:8000/play/a2ua/index.m3u8
+
+
 #EXTINF:-1 group-title="Познавательные", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 
@@ -777,6 +781,14 @@ http://127.0.0.1:6878/ace/m/156283f58f21399fb21145d36fd43419da56bfbf/f7c022a6dc5
 
 #EXTINF:-1 group-title="Кино", Любимое {VLC}
 http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
+
+
+#EXTINF:-1 group-title="Спортивные", Матч Премьер
+http://77.240.45.106:18888/play/a02f
+
+
+#EXTINF:-1 group-title="Спортивные", Матч Премьер HD
+http://178.160.249.210:8000/play/a2ri/index.m3u8
 
 
 #EXTINF:-1 group-title="Новостные", Мир 24
