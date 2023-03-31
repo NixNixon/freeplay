@@ -783,9 +783,14 @@ http://127.0.0.1:6878/ace/m/156283f58f21399fb21145d36fd43419da56bfbf/f7c022a6dc5
 http://cdn.am01.spr24.net:81/139/index.m3u8?token=7t4p47A93etzsd
 
 
-#EXTINF:-1 group-title="Спортивные", Матч Премьер
-http://77.240.45.106:18888/play/a02f
+#EXTINF:-1 group-title="Спортивные", Матч! Арена
+http://streamer1.ruslanatv.ru/russia/match_arena_sd_new_2023/playlist.m3u8
 
+#EXTINF:-1 group-title="Спортивные", Матч! Арена HD
+http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Спортивные", Матч Премьер
+http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные", Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
