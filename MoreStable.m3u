@@ -378,6 +378,8 @@ http://31.148.48.15:80/Nickelodeon/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские", Nick Toons
 http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8
 
+#EXTINF:-1 group-title="Спортивные", Nimbus Playout
+https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Ocean TV
 http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
@@ -671,6 +673,9 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 group-title="Детские", Капитан Фантастика {VLC}
 http://cdn.am01.spr24.net:81/148/index.m3u8?token=7t4p47A93etzsd
 
+#EXTINF:-1 group-title="Детские", Капитан Фантастика
+http://176.222.190.76/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
+
 #EXTINF:-1 group-title="Детские", Капитан Фантастика HD {VLC}
 http://185.23.80.28:8080/KapitanFantastika/index.m3u8
 
@@ -816,16 +821,21 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Новостные", Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Познавательные", Министерство идей
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Новостные", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/456/stream.m3u8
+
+
+#EXTINF:-1 group-title="Спортивные", Мир баскетбола
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Познавательные", Мособр ТВ
@@ -1038,12 +1048,14 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 http://78.25.155.47:1309/channel/Sarafan.ts
 
 
+#EXTINF:-1 group-title="Кино", Свежаки
+https://edge-01.kino.watch/fresh/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Сериал UHD {AceStream}
 http://127.0.0.1:6878/ace/m/32fa4e9c1c34b06c9cdbced939dee4b6b6c5beba/16e280f12a4e77305f4b6f3fc6f35819.m3u8
 
 
-#EXTINF:-1 group-title="Кино", Свежаки
-https://edge-01.kino.watch/fresh/index.m3u8
 
 
 #EXTINF:-1 group-title="Развлекательные", Светлое ТВ
