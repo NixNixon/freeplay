@@ -716,7 +716,7 @@ http://live-1.otcnet.ru/kinosem/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Кинокомедия
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Киноман {VLC}
@@ -724,15 +724,15 @@ http://185.23.80.28:8080/KinoSat/index.m3u8
  
 
 #EXTINF:-1 group-title="Кино", Киномикс
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="Кино", Кинопремьера
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино", Кинопремьера HD
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Киносат {VLC}
@@ -740,18 +740,22 @@ http://185.23.80.28:8080/KinoSat/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Киносвидание
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино", Киносемья HD
+http://46.19.99.11:4000/play/a04k/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Киноужас
-http://109.197.192.121:8080/kinouzhas/index.m3u8
-
+http://178.160.249.210:8000/play/a2tg/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Кинохит
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
 
+#EXTINF:-1 group-title="Кино", Кинохит HD
+http://46.19.99.11:4000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", Ключ
 http://streamer.enchart.one/42/8293941d758081cbd35ef51715602e9f71cf1dd5/2026/stream.m3u8
