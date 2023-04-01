@@ -785,6 +785,10 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
 http://109.200.135.130:8080/kto-est-kto/index.m3u8?token=test
 
 
+#EXTINF:-1 group-title="Детские", Лëва
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Любимое {AceStream}
 http://127.0.0.1:6878/ace/m/156283f58f21399fb21145d36fd43419da56bfbf/f7c022a6dc5a35350115bea70d9790b9.m3u8
 
